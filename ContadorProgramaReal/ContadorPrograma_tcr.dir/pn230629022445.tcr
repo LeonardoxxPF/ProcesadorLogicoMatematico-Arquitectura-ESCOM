@@ -1,0 +1,16 @@
+#Start recording tcl command: 6/29/2023 02:12:38
+#Project Location: C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/ContadorProgramaReal; Project name: ContadorPrograma
+prj_project new -name "ContadorPrograma" -impl "ContadorPrograma" -dev LCMXO2-7000HE-4TG144C -synthesis "synplify"
+prj_project save
+prj_src add "C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/ContadorProgramaReal/CP00.vhd"
+prj_run Synthesis -impl ContadorPrograma
+prj_src add "C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/ContadorProgramaReal/CP00_paq.vhd"
+prj_run Synthesis -impl ContadorPrograma
+prj_src add "C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/ContadorProgramaReal/mux.vhd"
+prj_run Synthesis -impl ContadorPrograma
+prj_src add "C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/ContadorProgramaReal/mux_paq.vhd"
+prj_run Synthesis -impl ContadorPrograma
+prj_src add "C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/ContadorProgramaReal/top.vhd"
+prj_run Synthesis -impl ContadorPrograma
+prj_run Export -impl ContadorPrograma -task Jedecgen
+#Stop recording: 6/29/2023 02:24:45

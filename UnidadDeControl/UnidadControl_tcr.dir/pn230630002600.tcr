@@ -1,0 +1,6 @@
+#Start recording tcl command: 6/29/2023 23:10:03
+#Project Location: C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/UnidadDeControl; Project name: UnidadControl
+prj_project new -name "UnidadControl" -impl "UnidadControl" -dev LCMXO2-7000HE-4TG144C -synthesis "synplify"
+prj_project save
+prj_src add "C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/UnidadDeControl/CU.vhd"
+#Stop recording: 6/30/2023 00:26:00

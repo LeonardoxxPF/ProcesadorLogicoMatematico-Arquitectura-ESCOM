@@ -1,0 +1,14 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N:"C:\Users\andre\Desktop\ALU\ALU00.vhd":5:7:5:11|Top entity is set to ALU00.
+@N: CD630 :"C:\Users\andre\Desktop\ALU\ALU00.vhd":5:7:5:11|Synthesizing work.alu00.alu0.
+@N: CD630 :"C:\Users\andre\Desktop\ALU\MUX00.vhd":4:7:4:11|Synthesizing work.mux00.mux0.
+@N: CD630 :"C:\Users\andre\Desktop\ALU\MULTPLICADOR.vhd":5:7:5:19|Synthesizing work.multiplicador.a_multiplicador.
+@N: CD630 :"C:\Users\andre\Desktop\ALU\ADD.vhd":5:7:5:9|Synthesizing work.add.add0.
+@N: CD630 :"C:\Users\andre\Desktop\ALU\FA00.vhd":5:7:5:10|Synthesizing work.fa00.fa0.
+@N: CD630 :"C:\Users\andre\Desktop\ALU\HA00.vhd":4:7:4:10|Synthesizing work.ha00.ha0.
+@N: CD630 :"C:\Users\andre\Desktop\ALU\RESTADOR.vhd":5:7:5:10|Synthesizing work.sg88.sg880.
+@N: CD630 :"C:\Users\andre\Desktop\ALU\SUMADOR.vhd":6:7:6:9|Synthesizing work.s88.s880.
+@N: CL159 :"C:\Users\andre\Desktop\ALU\SUMADOR.vhd":11:2:11:3|Input C0 is unused.
+@N|Running in 64-bit mode
+

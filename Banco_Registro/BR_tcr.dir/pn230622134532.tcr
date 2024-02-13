@@ -1,0 +1,20 @@
+#Start recording tcl command: 6/22/2023 12:55:00
+#Project Location: C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/Banco_Registro; Project name: BR
+prj_project open "C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/Banco_Registro/BR.ldf"
+prj_src add "C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/Banco_Registro/TestBench.vhd"
+prj_run Synthesis -impl BR
+prj_run Synthesis -impl BR
+prj_src add "C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/Banco_Registro/SimulacionBancoRegistro/SimulacionBancoRegistro.spf"
+prj_src remove "C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/Banco_Registro/TestBench.vhd"
+prj_src add "C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/Banco_Registro/TestBench.vhdl"
+prj_run Export -impl BR -task Jedecgen
+prj_run Synthesis -impl BR
+prj_run Synthesis -impl BR
+prj_run Synthesis -impl BR
+prj_run Synthesis -impl BR
+prj_run Synthesis -impl BR
+prj_run Synthesis -impl BR
+prj_run Synthesis -impl BR
+prj_src add "C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/Banco_Registro/SimulacionBancoRegistro/SimulacionBancoRegistro.spf"
+prj_run Synthesis -impl BR
+#Stop recording: 6/22/2023 13:45:32

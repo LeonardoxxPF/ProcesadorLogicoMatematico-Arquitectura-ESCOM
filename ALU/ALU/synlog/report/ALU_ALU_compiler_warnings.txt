@@ -1,0 +1,3 @@
+@W: CL117 :"C:\Users\morco\OneDrive\Desktop\ProyectosArqui\ALU\MUX00.vhd":37:2:37:5|Latch generated from process for signal O(7 downto 0); possible missing assignment in an if or case statement.
+@W: CL117 :"C:\Users\morco\OneDrive\Desktop\ProyectosArqui\ALU\MUX00.vhd":37:2:37:5|Latch generated from process for signal T; possible missing assignment in an if or case statement.
+

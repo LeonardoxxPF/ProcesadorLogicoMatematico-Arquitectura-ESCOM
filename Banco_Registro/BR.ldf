@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliProject version="3.2" title="BR" device="LCMXO2-7000HE-4TG144C" default_implementation="BR">
+    <Options/>
+    <Implementation title="BR" dir="BR" description="BR" synthesis="synplify" default_strategy="Strategy1">
+        <Options def_top="BancoRegistro"/>
+        <Source name="Banco_Registros.vhd" type="VHDL" type_short="VHDL">
+            <Options top_module="BancoRegistro"/>
+        </Source>
+        <Source name="TestBench.vhd" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="BR.lpf" type="Logic Preference" type_short="LPF">
+            <Options/>
+        </Source>
+        <Source name="BR/BR.xcf" type="Programming Project File" type_short="Programming">
+            <Options/>
+        </Source>
+        <Source name="SimulacionBancoRegistro/SimulacionBancoRegistro.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+    </Implementation>
+    <Strategy name="Strategy1" file="BR1.sty"/>
+</BaliProject>

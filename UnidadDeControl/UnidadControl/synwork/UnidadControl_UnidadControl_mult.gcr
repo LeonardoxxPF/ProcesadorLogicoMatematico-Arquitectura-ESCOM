@@ -1,0 +1,8 @@
+i clk
+m 0 0
+u 5 5
+p {p:clk}{t:un1_clk.I[0]}{t:un1_clk.OUT[0]}{t:alu[4].C}
+e ckid0_0 {t:alu[4].C} lat
+c ckid0_0 {p:clk} port Unsupported/too complex instance on clock path
+l 0 0 0 0 0
+r 0 0 0 0 0 0 0 0

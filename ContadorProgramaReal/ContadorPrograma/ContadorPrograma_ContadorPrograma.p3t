@@ -1,0 +1,5 @@
+-rem
+-distrce
+-log "ContadorPrograma_ContadorPrograma.log"
+-o "ContadorPrograma_ContadorPrograma.csv"
+-pr "ContadorPrograma_ContadorPrograma.prf"

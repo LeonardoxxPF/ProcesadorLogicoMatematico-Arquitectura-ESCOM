@@ -1,0 +1,5 @@
+-rem
+-distrce
+-log "MD_MD.log"
+-o "MD_MD.csv"
+-pr "MD_MD.prf"

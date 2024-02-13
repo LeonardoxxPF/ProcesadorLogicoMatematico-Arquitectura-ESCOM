@@ -1,0 +1,28 @@
+NOTE Copyright (C), 1992-2010, Lattice Semiconductor Corporation *
+NOTE All Rights Reserved *
+NOTE DATE CREATED: Thu Jun 29 14:07:47 2023 *
+NOTE DESIGN NAME: top *
+NOTE DEVICE NAME: LCMXO2-7000HE-4TQFP144 *
+NOTE PIN ASSIGNMENTS *
+NOTE PINS busSalida[0] : 38 : out *
+NOTE PINS clk : 109 : in *
+NOTE PINS busSalida[7] : 99 : out *
+NOTE PINS busSalida[6] : 100 : out *
+NOTE PINS busSalida[5] : 104 : out *
+NOTE PINS busSalida[4] : 105 : out *
+NOTE PINS busSalida[3] : 106 : out *
+NOTE PINS busSalida[2] : 107 : out *
+NOTE PINS busSalida[1] : 40 : out *
+NOTE PINS selector : 2 : in *
+NOTE PINS busEntradaInfluido[7] : 5 : in *
+NOTE PINS busEntradaInfluido[6] : 6 : in *
+NOTE PINS busEntradaInfluido[5] : 9 : in *
+NOTE PINS busEntradaInfluido[4] : 10 : in *
+NOTE PINS busEntradaInfluido[3] : 11 : in *
+NOTE PINS busEntradaInfluido[2] : 12 : in *
+NOTE PINS busEntradaInfluido[1] : 13 : in *
+NOTE PINS busEntradaInfluido[0] : 14 : in *
+NOTE PINS reset : 114 : in *
+NOTE PINS wpc : 1 : in *
+NOTE CONFIGURATION MODE: NONE *
+NOTE COMPRESSION: on *

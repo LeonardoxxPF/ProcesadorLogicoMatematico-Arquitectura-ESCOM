@@ -1,0 +1,57 @@
+NOTE Copyright (C), 1992-2010, Lattice Semiconductor Corporation *
+NOTE All Rights Reserved *
+NOTE DATE CREATED: Thu Jun 29 20:40:34 2023 *
+NOTE DESIGN NAME: BancoRegistro *
+NOTE DEVICE NAME: LCMXO2-7000HE-4TQFP144 *
+NOTE PIN ASSIGNMENTS *
+NOTE PINS RD1[0] : 38 : out *
+NOTE PINS WE : 111 : in *
+NOTE PINS RD2[7] : 49 : out *
+NOTE PINS RD2[6] : 47 : out *
+NOTE PINS RD2[5] : 45 : out *
+NOTE PINS RD2[4] : 43 : out *
+NOTE PINS RD2[3] : 42 : out *
+NOTE PINS RD2[2] : 44 : out *
+NOTE PINS RD2[1] : 39 : out *
+NOTE PINS RD2[0] : 41 : out *
+NOTE PINS RD1[7] : 99 : out *
+NOTE PINS RD1[6] : 100 : out *
+NOTE PINS RD1[5] : 104 : out *
+NOTE PINS RD1[4] : 105 : out *
+NOTE PINS RD1[3] : 106 : out *
+NOTE PINS RD1[2] : 107 : out *
+NOTE PINS RD1[1] : 40 : out *
+NOTE PINS WD[7] : 33 : in *
+NOTE PINS WD[6] : 32 : in *
+NOTE PINS WD[5] : 35 : in *
+NOTE PINS WD[4] : 34 : in *
+NOTE PINS WD[3] : 114 : in *
+NOTE PINS WD[2] : 109 : in *
+NOTE PINS WD[1] : 110 : in *
+NOTE PINS WD[0] : 112 : in *
+NOTE PINS WR[7] : 132 : in *
+NOTE PINS WR[6] : 133 : in *
+NOTE PINS WR[5] : 24 : in *
+NOTE PINS WR[4] : 23 : in *
+NOTE PINS WR[3] : 26 : in *
+NOTE PINS WR[2] : 25 : in *
+NOTE PINS WR[1] : 28 : in *
+NOTE PINS WR[0] : 27 : in *
+NOTE PINS RR2[7] : 11 : in *
+NOTE PINS RR2[6] : 12 : in *
+NOTE PINS RR2[5] : 13 : in *
+NOTE PINS RR2[4] : 14 : in *
+NOTE PINS RR2[3] : 20 : in *
+NOTE PINS RR2[2] : 19 : in *
+NOTE PINS RR2[1] : 21 : in *
+NOTE PINS RR2[0] : 22 : in *
+NOTE PINS RR1[7] : 1 : in *
+NOTE PINS RR1[6] : 2 : in *
+NOTE PINS RR1[5] : 3 : in *
+NOTE PINS RR1[4] : 4 : in *
+NOTE PINS RR1[3] : 5 : in *
+NOTE PINS RR1[2] : 6 : in *
+NOTE PINS RR1[1] : 9 : in *
+NOTE PINS RR1[0] : 10 : in *
+NOTE CONFIGURATION MODE: NONE *
+NOTE COMPRESSION: on *

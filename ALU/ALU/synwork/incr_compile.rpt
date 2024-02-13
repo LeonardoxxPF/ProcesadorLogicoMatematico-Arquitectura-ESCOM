@@ -1,0 +1,77 @@
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-7A8SQ4U
+
+Implementation : ALU
+Synopsys HDL compiler and linker, Version comp202003synp2, Build 182R, Built Oct 29 2020 10:49:53, @
+
+Modified Files: 1
+FID:  path (prevtimestamp, timestamp)
+38       C:\Users\andre\Desktop\ALU\TestBench.vhd (2023-04-26 12:19:00, 2023-04-26 12:20:56)
+
+*******************************************************************
+Modules that may have changed as a result of file changes: 9
+MID:  lib.cell.view
+8        work.add.add0 may have changed because the following files changed:
+                        C:\Users\andre\Desktop\ALU\TestBench.vhd (2023-04-26 12:19:00, 2023-04-26 12:20:56) <-- (may instantiate this module)
+18       work.alu00.alu0 may have changed because the following files changed:
+                        C:\Users\andre\Desktop\ALU\TestBench.vhd (2023-04-26 12:19:00, 2023-04-26 12:20:56) <-- (may instantiate this module)
+0        work.fa00.fa0 may have changed because the following files changed:
+                        C:\Users\andre\Desktop\ALU\TestBench.vhd (2023-04-26 12:19:00, 2023-04-26 12:20:56) <-- (may instantiate this module)
+2        work.ha00.ha0 may have changed because the following files changed:
+                        C:\Users\andre\Desktop\ALU\TestBench.vhd (2023-04-26 12:19:00, 2023-04-26 12:20:56) <-- (may instantiate this module)
+10       work.multiplicador.a_multiplicador may have changed because the following files changed:
+                        C:\Users\andre\Desktop\ALU\TestBench.vhd (2023-04-26 12:19:00, 2023-04-26 12:20:56) <-- (may instantiate this module)
+14       work.mux00.mux0 may have changed because the following files changed:
+                        C:\Users\andre\Desktop\ALU\TestBench.vhd (2023-04-26 12:19:00, 2023-04-26 12:20:56) <-- (may instantiate this module)
+4        work.s88.s880 may have changed because the following files changed:
+                        C:\Users\andre\Desktop\ALU\TestBench.vhd (2023-04-26 12:19:00, 2023-04-26 12:20:56) <-- (may instantiate this module)
+6        work.sg88.sg880 may have changed because the following files changed:
+                        C:\Users\andre\Desktop\ALU\TestBench.vhd (2023-04-26 12:19:00, 2023-04-26 12:20:56) <-- (may instantiate this module)
+20       work.testbench.testbench0 may have changed because the following files changed:
+                        C:\Users\andre\Desktop\ALU\TestBench.vhd (2023-04-26 12:19:00, 2023-04-26 12:20:56) <-- (architecture and entity definition)
+
+*******************************************************************
+Unmodified files: 24
+FID:  path (timestamp)
+24       C:\Users\andre\Desktop\ALU\ADD.vhd (2023-04-20 16:20:28)
+25       C:\Users\andre\Desktop\ALU\ALU00.vhd (2023-04-25 16:53:59)
+26       C:\Users\andre\Desktop\ALU\ALU_paq.vhd (2023-04-24 16:41:17)
+27       C:\Users\andre\Desktop\ALU\COMPARADOR.vhd (2023-04-20 18:23:45)
+28       C:\Users\andre\Desktop\ALU\FA00.vhd (2023-04-20 15:53:44)
+29       C:\Users\andre\Desktop\ALU\FA00_paq.vhd (2023-04-20 15:53:44)
+30       C:\Users\andre\Desktop\ALU\HA00.vhd (2023-04-20 16:18:24)
+31       C:\Users\andre\Desktop\ALU\HA00_paq.vhd (2023-04-20 16:18:24)
+32       C:\Users\andre\Desktop\ALU\MULTPLICADOR.vhd (2023-04-20 16:20:28)
+33       C:\Users\andre\Desktop\ALU\MUTL_paq.vhd (2023-04-20 16:22:16)
+34       C:\Users\andre\Desktop\ALU\MUX00.vhd (2023-04-24 16:41:17)
+35       C:\Users\andre\Desktop\ALU\MUX11.vhd (2023-04-23 18:57:38)
+36       C:\Users\andre\Desktop\ALU\RESTADOR.vhd (2023-04-24 14:16:25)
+37       C:\Users\andre\Desktop\ALU\SUMADOR.vhd (2023-04-24 14:44:24)
+4        C:\lscc\diamond\3.12\cae_library\synthesis\vhdl\machxo2.vhd (2018-11-15 00:32:12)
+5        C:\lscc\diamond\3.12\synpbase\lib\vhd\arith.vhd (2020-10-29 10:23:10)
+6        C:\lscc\diamond\3.12\synpbase\lib\vhd\hyperents.vhd (2020-10-29 10:23:10)
+7        C:\lscc\diamond\3.12\synpbase\lib\vhd\location.map (2020-11-02 17:26:20)
+8        C:\lscc\diamond\3.12\synpbase\lib\vhd\numeric.vhd (2020-10-29 10:23:10)
+9        C:\lscc\diamond\3.12\synpbase\lib\vhd\snps_haps_pkg.vhd (2020-10-29 10:23:10)
+10       C:\lscc\diamond\3.12\synpbase\lib\vhd\std.vhd (2020-10-29 10:23:10)
+11       C:\lscc\diamond\3.12\synpbase\lib\vhd\std1164.vhd (2020-10-29 10:23:10)
+12       C:\lscc\diamond\3.12\synpbase\lib\vhd\umr_capim.vhd (2020-10-29 10:23:10)
+13       C:\lscc\diamond\3.12\synpbase\lib\vhd\unsigned.vhd (2020-10-29 10:23:10)
+
+*******************************************************************
+Unchanged modules: 4
+MID:  lib.cell.view
+12       work.com00.com0
+13       work.com00.vhdl
+16       work.mux11.mux1
+17       work.mux11.vhdl

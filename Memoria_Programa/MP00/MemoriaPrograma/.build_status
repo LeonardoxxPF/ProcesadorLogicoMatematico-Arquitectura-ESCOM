@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildStatus>
+    <Strategy name="Strategy1">
+        <Milestone name="Export" build_result="0" build_time="0">
+            <Task name="IBIS" build_result="0" update_result="3" update_time="0"/>
+            <Task name="TimingSimFileVlg" build_result="0" update_result="3" update_time="0"/>
+            <Task name="TimingSimFileVHD" build_result="0" update_result="3" update_time="0"/>
+            <Task name="Bitgen" build_result="0" update_result="3" update_time="0"/>
+            <Task name="Jedecgen" build_result="2" update_result="0" update_time="1687484637"/>
+        </Milestone>
+        <Milestone name="Map" build_result="2" build_time="1687484629">
+            <Task name="Map" build_result="2" update_result="0" update_time="1687484629"/>
+            <Task name="MapTrace" build_result="0" update_result="3" update_time="0"/>
+            <Task name="MapVerilogSimFile" build_result="0" update_result="3" update_time="0"/>
+            <Task name="MapVHDLSimFile" build_result="0" update_result="3" update_time="0"/>
+        </Milestone>
+        <Milestone name="PAR" build_result="2" build_time="1687484633">
+            <Task name="PAR" build_result="2" update_result="0" update_time="1687484633"/>
+            <Task name="PARTrace" build_result="2" update_result="0" update_time="1687484634"/>
+            <Task name="IOTiming" build_result="0" update_result="3" update_time="0"/>
+        </Milestone>
+        <Milestone name="Synthesis" build_result="2" build_time="1687484576">
+            <Task name="Synplify_Synthesis" build_result="2" update_result="0" update_time="1687484576"/>
+        </Milestone>
+        <Milestone name="TOOL_Report" build_result="0" build_time="0">
+            <Task name="HDLE" build_result="0" update_result="3" update_time="0"/>
+            <Task name="BKM" build_result="0" update_result="3" update_time="0"/>
+            <Task name="SSO" build_result="0" update_result="3" update_time="0"/>
+            <Task name="PIODRC" build_result="0" update_result="3" update_time="0"/>
+            <Task name="DEC" build_result="0" update_result="3" update_time="0"/>
+        </Milestone>
+        <Milestone name="Translate" build_result="2" build_time="1687484579">
+            <Task name="Translate" build_result="2" update_result="0" update_time="1687484579"/>
+        </Milestone>
+        <Report name="MemoriaPrograma_MemoriaPrograma.bgn" last_build_time="1687484638" last_build_size="4460"/>
+        <Report name="MemoriaPrograma_MemoriaPrograma.edi" last_build_time="1687484576" last_build_size="28803"/>
+        <Report name="MemoriaPrograma_MemoriaPrograma.jed" last_build_time="1687484638" last_build_size="1465509"/>
+        <Report name="MemoriaPrograma_MemoriaPrograma.ncd" last_build_time="1687484634" last_build_size="95305"/>
+        <Report name="MemoriaPrograma_MemoriaPrograma.ngd" last_build_time="1687484580" last_build_size="36160"/>
+        <Report name="MemoriaPrograma_MemoriaPrograma.twr" last_build_time="1687484634" last_build_size="24239"/>
+        <Report name="MemoriaPrograma_MemoriaPrograma_map.ncd" last_build_time="1687484630" last_build_size="70452"/>
+    </Strategy>
+</BuildStatus>

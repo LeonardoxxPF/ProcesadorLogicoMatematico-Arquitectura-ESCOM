@@ -1,0 +1,9 @@
+@N: MF916 |Option synthesis_strategy=base is enabled. 
+@N: MF248 |Running in 64-bit mode.
+@N: MF666 |Clock conversion enabled. (Command "set_option -fix_gated_and_generated_clocks 1" in the project file.)
+@N: BN115 :"c:\users\andre\desktop\alu\fa00.vhd":20:1:20:4|Removing instance HA_1 (in view: work.FA00_18_0(fa0)) of type view:work.HA00_0_0(ha0) because it does not drive other instances.
+@N: BN115 :"c:\users\andre\desktop\alu\fa00.vhd":18:1:18:4|Removing instance HA_0 (in view: work.FA00_15(fa0)) of type view:work.HA00_2_36(ha0) because it does not drive other instances.
+@N: BN115 :"c:\users\andre\desktop\alu\fa00.vhd":20:1:20:4|Removing instance HA_1 (in view: work.FA00_18_4(fa0)) of type view:work.HA00_0_1(ha0) because it does not drive other instances.
+@N: BN115 :"c:\users\andre\desktop\alu\fa00.vhd":20:1:20:4|Removing instance HA_1 (in view: work.FA00_18_8(fa0)) of type view:work.HA00_0_5(ha0) because it does not drive other instances.
+@N: FX1184 |Applying syn_allowed_resources blockrams=26 on top level netlist ALU00 
+@N: FX1143 |Skipping assigning INTERNAL_VREF to iobanks, because the table of mapping from pin to iobank is not initialized.

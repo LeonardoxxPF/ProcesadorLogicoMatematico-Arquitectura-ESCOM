@@ -1,0 +1,96 @@
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-7A8SQ4U
+
+Implementation : MD
+
+# Written on Thu Jun 22 14:01:22 2023
+
+##### DESIGN INFO #######################################################
+
+Top View:                "MemoriaDatos"
+Constraint File(s):      (none)
+
+
+
+
+##### SUMMARY ############################################################
+
+Found 0 issues in 0 out of 0 constraints
+
+
+##### DETAILS ############################################################
+
+
+
+Clock Relationships
+*******************
+
+Starting     Ending     |     rise to rise     |     fall to fall     |     rise to fall     |     fall to rise                     
+-----------------------------------------------------------------------------------------------------------------------------------
+===================================================================================================================================
+ Note: 'No paths' indicates there are no paths in the design for that pair of clock edges.
+       'Diff grp' indicates that paths exist but the starting clock and ending clock are in different clock groups.
+
+
+Unconstrained Start/End Points
+******************************
+
+p:A[0]
+p:A[1]
+p:A[2]
+p:A[3]
+p:A[4]
+p:A[5]
+p:A[6]
+p:A[7]
+p:Di[0]
+p:Di[1]
+p:Di[2]
+p:Di[3]
+p:Di[4]
+p:Di[5]
+p:Di[6]
+p:Di[7]
+p:Do[0]
+p:Do[1]
+p:Do[2]
+p:Do[3]
+p:Do[4]
+p:Do[5]
+p:Do[6]
+p:Do[7]
+
+
+Inapplicable constraints
+************************
+
+(none)
+
+
+Applicable constraints with issues
+**********************************
+
+(none)
+
+
+Constraints with matching wildcard expressions
+**********************************************
+
+(none)
+
+
+Library Report
+**************
+
+
+# End of Constraint Checker Report

@@ -1,0 +1,33 @@
+SCHEMATIC START ;
+# map:  version Diamond (64-bit) 3.12.0.240.2 -- WARNING: Map write only section -- Thu Jun 29 14:07:41 2023
+
+SYSCONFIG SDM_PORT=DISABLE SLAVE_SPI_PORT=DISABLE I2C_PORT=DISABLE MASTER_SPI_PORT=DISABLE COMPRESS_CONFIG=ON CONFIGURATION=CFG MY_ASSP=OFF ONE_TIME_PROGRAM=OFF CONFIG_SECURE=OFF MCCLK_FREQ=2.08 JTAG_PORT=ENABLE ENABLE_TRANSFR=DISABLE SHAREDEBRINIT=DISABLE MUX_CONFIGURATION_PORTS=DISABLE BACKGROUND_RECONFIG=OFF INBUF=ON ;
+LOCATE COMP "busSalida[0]" SITE "38" ;
+LOCATE COMP "clk" SITE "109" ;
+LOCATE COMP "busSalida[7]" SITE "99" ;
+LOCATE COMP "busSalida[6]" SITE "100" ;
+LOCATE COMP "busSalida[5]" SITE "104" ;
+LOCATE COMP "busSalida[4]" SITE "105" ;
+LOCATE COMP "busSalida[3]" SITE "106" ;
+LOCATE COMP "busSalida[2]" SITE "107" ;
+LOCATE COMP "busSalida[1]" SITE "40" ;
+LOCATE COMP "selector" SITE "2" ;
+LOCATE COMP "busEntradaInfluido[7]" SITE "5" ;
+LOCATE COMP "busEntradaInfluido[6]" SITE "6" ;
+LOCATE COMP "busEntradaInfluido[5]" SITE "9" ;
+LOCATE COMP "busEntradaInfluido[4]" SITE "10" ;
+LOCATE COMP "busEntradaInfluido[3]" SITE "11" ;
+LOCATE COMP "busEntradaInfluido[2]" SITE "12" ;
+LOCATE COMP "busEntradaInfluido[1]" SITE "13" ;
+LOCATE COMP "busEntradaInfluido[0]" SITE "14" ;
+LOCATE COMP "reset" SITE "114" ;
+LOCATE COMP "wpc" SITE "1" ;
+SCHEMATIC END ;
+BLOCK RESETPATHS ;
+BLOCK ASYNCPATHS ;
+COMMERCIAL ;
+
+// No timing preferences found. TRCE invokes auto-generation of timing preferences
+// Section Autogen
+FREQUENCY NET "clk_c" 399.840 MHz ;
+// End Section Autogen

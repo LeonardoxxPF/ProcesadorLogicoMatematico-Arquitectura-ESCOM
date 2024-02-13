@@ -1,0 +1,46 @@
+NOTE Copyright (C), 1992-2010, Lattice Semiconductor Corporation *
+NOTE All Rights Reserved *
+NOTE DATE CREATED: Thu Jun 22 19:43:57 2023 *
+NOTE DESIGN NAME: MEMORIA_PROGRAMA00 *
+NOTE DEVICE NAME: LCMXO2-7000HE-5TQFP144 *
+NOTE PIN ASSIGNMENTS *
+NOTE PINS D[0] : 107 : out *
+NOTE PINS A[0] : 10 : in *
+NOTE PINS D[31] : 61 : out *
+NOTE PINS D[30] : 60 : out *
+NOTE PINS D[29] : 58 : out *
+NOTE PINS D[28] : 59 : out *
+NOTE PINS D[27] : 57 : out *
+NOTE PINS D[26] : 56 : out *
+NOTE PINS D[25] : 54 : out *
+NOTE PINS D[24] : 55 : out *
+NOTE PINS D[23] : 52 : out *
+NOTE PINS D[22] : 48 : out *
+NOTE PINS D[21] : 49 : out *
+NOTE PINS D[20] : 47 : out *
+NOTE PINS D[19] : 45 : out *
+NOTE PINS D[18] : 43 : out *
+NOTE PINS D[17] : 42 : out *
+NOTE PINS D[16] : 44 : out *
+NOTE PINS D[15] : 39 : out *
+NOTE PINS D[14] : 41 : out *
+NOTE PINS D[13] : 91 : out *
+NOTE PINS D[12] : 92 : out *
+NOTE PINS D[11] : 93 : out *
+NOTE PINS D[10] : 94 : out *
+NOTE PINS D[9] : 96 : out *
+NOTE PINS D[8] : 95 : out *
+NOTE PINS D[7] : 98 : out *
+NOTE PINS D[6] : 97 : out *
+NOTE PINS D[5] : 99 : out *
+NOTE PINS D[4] : 100 : out *
+NOTE PINS D[3] : 104 : out *
+NOTE PINS D[2] : 105 : out *
+NOTE PINS D[1] : 106 : out *
+NOTE PINS A[5] : 3 : in *
+NOTE PINS A[4] : 4 : in *
+NOTE PINS A[3] : 5 : in *
+NOTE PINS A[2] : 6 : in *
+NOTE PINS A[1] : 9 : in *
+NOTE CONFIGURATION MODE: NONE *
+NOTE COMPRESSION: on *

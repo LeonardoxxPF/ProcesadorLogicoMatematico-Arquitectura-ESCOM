@@ -1,0 +1,566 @@
+m255
+K4
+z2
+!s11e vcom 2020.3 2020.10, Oct 14 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/andre/Desktop/ALU/SimulacionALU
+Eadd
+Z1 w1682029228
+Z2 DPx4 work 8 mutl_paq 0 22 `<mM3Om5fLJcmH>9DI8?43
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 7
+R0
+Z5 8C:/Users/andre/Desktop/ALU/SimulacionALU/ADD.vhd
+Z6 FC:/Users/andre/Desktop/ALU/SimulacionALU/ADD.vhd
+l0
+L5 1
+VZ=nB@[?>VK9nfBGd;H]Zz2
+!s100 8:GOJPdgzd8h8U6=Md>I73
+Z7 OT;C;2020.3;71
+32
+Z8 !s110 1682533360
+!i10b 1
+Z9 !s108 1682533360.000000
+Z10 !s90 -reportprogress|300|-work|work|C:/Users/andre/Desktop/ALU/SimulacionALU/ADD.vhd|
+Z11 !s107 C:/Users/andre/Desktop/ALU/SimulacionALU/ADD.vhd|
+!i113 1
+Z12 o-work work -O0
+Z13 tExplicit 1 CvgOpt 0
+Aadd0
+R2
+R3
+R4
+DEx4 work 3 add 0 22 Z=nB@[?>VK9nfBGd;H]Zz2
+!i122 7
+l18
+Z14 L14 12
+Ve0cmVBL@@Gi9ETH@?OO:C0
+!s100 >a^2bZzC965TfCQU@Ol@?2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ealu00
+Z15 w1682463239
+Z16 DPx4 work 7 alu_paq 0 22 1jU[zXiOD69f;7KVE5a4D1
+R3
+R4
+!i122 11
+R0
+Z17 8C:/Users/andre/Desktop/ALU/SimulacionALU/ALU00.vhd
+Z18 FC:/Users/andre/Desktop/ALU/SimulacionALU/ALU00.vhd
+l0
+L5 1
+VAd4h^@i@HZ0lB:285klGg1
+!s100 @QAe5L89DknIFY?9>T42c3
+R7
+32
+R8
+!i10b 1
+R9
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/andre/Desktop/ALU/SimulacionALU/ALU00.vhd|
+Z20 !s107 C:/Users/andre/Desktop/ALU/SimulacionALU/ALU00.vhd|
+!i113 1
+R12
+R13
+Aalu0
+R16
+R3
+R4
+DEx4 work 5 alu00 0 22 Ad4h^@i@HZ0lB:285klGg1
+!i122 11
+l26
+L20 58
+VQzTC80IERB4PgQZ[:2IYb2
+!s100 1^02P7e6g_>CnLOI]HL=K0
+R7
+32
+R8
+!i10b 1
+R9
+R19
+R20
+!i113 1
+R12
+R13
+Palu_paq
+R3
+R4
+!i122 0
+Z21 w1682376077
+R0
+8C:/Users/andre/Desktop/ALU/SimulacionALU/ALU_paq.vhd
+FC:/Users/andre/Desktop/ALU/SimulacionALU/ALU_paq.vhd
+l0
+L4 1
+V1jU[zXiOD69f;7KVE5a4D1
+!s100 lz15c?dQ>oOR6J@STn6`m1
+R7
+32
+Z22 !s110 1682533359
+!i10b 1
+Z23 !s108 1682533359.000000
+!s90 -reportprogress|300|-work|work|C:/Users/andre/Desktop/ALU/SimulacionALU/ALU_paq.vhd|
+!s107 C:/Users/andre/Desktop/ALU/SimulacionALU/ALU_paq.vhd|
+!i113 1
+R12
+R13
+Ecom00
+Z24 w1682036625
+R3
+R4
+!i122 13
+R0
+Z25 8C:/Users/andre/Desktop/ALU/SimulacionALU/COMPARADOR.vhd
+Z26 FC:/Users/andre/Desktop/ALU/SimulacionALU/COMPARADOR.vhd
+l0
+L4 1
+VGcFIOZ9nh<[4ZlC@S7`Hj2
+!s100 `;UI>bZkb4ST>^CZOT@Lm1
+R7
+32
+R8
+!i10b 1
+R9
+Z27 !s90 -reportprogress|300|-work|work|C:/Users/andre/Desktop/ALU/SimulacionALU/COMPARADOR.vhd|
+Z28 !s107 C:/Users/andre/Desktop/ALU/SimulacionALU/COMPARADOR.vhd|
+!i113 1
+R12
+R13
+Acom0
+R3
+R4
+DEx4 work 5 com00 0 22 GcFIOZ9nh<[4ZlC@S7`Hj2
+!i122 13
+l11
+L10 12
+V9Z`=>eFk?<K0H=J@Q[[2^2
+!s100 zoI3kQRNYgidIO?h^jHkX2
+R7
+32
+R8
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Efa00
+Z29 w1682027624
+Z30 DPx4 work 8 ha00_paq 0 22 Z[`2`IaWoUC3GHMnX0Hhi3
+R3
+R4
+!i122 6
+R0
+Z31 8C:/Users/andre/Desktop/ALU/SimulacionALU/FA00.vhd
+Z32 FC:/Users/andre/Desktop/ALU/SimulacionALU/FA00.vhd
+l0
+L5 1
+VKeh9lb<bf>2Cb:MPHh9oM1
+!s100 6DC`EJVbCX5=mK28]YXnR3
+R7
+32
+R8
+!i10b 1
+R9
+Z33 !s90 -reportprogress|300|-work|work|C:/Users/andre/Desktop/ALU/SimulacionALU/FA00.vhd|
+Z34 !s107 C:/Users/andre/Desktop/ALU/SimulacionALU/FA00.vhd|
+!i113 1
+R12
+R13
+Afa0
+R30
+R3
+R4
+DEx4 work 4 fa00 0 22 Keh9lb<bf>2Cb:MPHh9oM1
+!i122 6
+l16
+R14
+VOhnIKiFO7Bcdz1FZmoL[Y0
+!s100 BUgHzUgGDHQX3oM60EN4>0
+R7
+32
+R8
+!i10b 1
+R9
+R33
+R34
+!i113 1
+R12
+R13
+Pfa00_paq
+R3
+R4
+!i122 2
+R29
+R0
+8C:/Users/andre/Desktop/ALU/SimulacionALU/FA00_paq.vhd
+FC:/Users/andre/Desktop/ALU/SimulacionALU/FA00_paq.vhd
+l0
+L4 1
+VgK99Hk^fVLCCkRe65cg:g3
+!s100 L=m0`:YcL2Bd<C^5jOJ9l3
+R7
+32
+R22
+!i10b 1
+R23
+!s90 -reportprogress|300|-work|work|C:/Users/andre/Desktop/ALU/SimulacionALU/FA00_paq.vhd|
+!s107 C:/Users/andre/Desktop/ALU/SimulacionALU/FA00_paq.vhd|
+!i113 1
+R12
+R13
+Eha00
+Z35 w1682029104
+R3
+R4
+!i122 5
+R0
+Z36 8C:/Users/andre/Desktop/ALU/SimulacionALU/HA00.vhd
+Z37 FC:/Users/andre/Desktop/ALU/SimulacionALU/HA00.vhd
+l0
+L4 1
+V;QS[h`ZXd`6zo17WX=@M90
+!s100 o^Gn^I1;6QAHHaoUXfW?P3
+R7
+32
+R8
+!i10b 1
+R9
+Z38 !s90 -reportprogress|300|-work|work|C:/Users/andre/Desktop/ALU/SimulacionALU/HA00.vhd|
+Z39 !s107 C:/Users/andre/Desktop/ALU/SimulacionALU/HA00.vhd|
+!i113 1
+R12
+R13
+Aha0
+R3
+R4
+DEx4 work 4 ha00 0 22 ;QS[h`ZXd`6zo17WX=@M90
+!i122 5
+l14
+L12 7
+VCVV62@NCWA>F1a6S3=Xb52
+!s100 OWOTHCjE]:RLV<XabkC@;2
+R7
+32
+R8
+!i10b 1
+R9
+R38
+R39
+!i113 1
+R12
+R13
+Pha00_paq
+R3
+R4
+!i122 1
+R35
+R0
+8C:/Users/andre/Desktop/ALU/SimulacionALU/HA00_paq.vhd
+FC:/Users/andre/Desktop/ALU/SimulacionALU/HA00_paq.vhd
+l0
+L4 1
+VZ[`2`IaWoUC3GHMnX0Hhi3
+!s100 5o=G=7>B@F;zk[=HSdhhN3
+R7
+32
+R22
+!i10b 1
+R23
+!s90 -reportprogress|300|-work|work|C:/Users/andre/Desktop/ALU/SimulacionALU/HA00_paq.vhd|
+!s107 C:/Users/andre/Desktop/ALU/SimulacionALU/HA00_paq.vhd|
+!i113 1
+R12
+R13
+Emultiplicador
+R1
+R2
+R3
+R4
+!i122 8
+R0
+Z40 8C:/Users/andre/Desktop/ALU/SimulacionALU/MULTPLICADOR.vhd
+Z41 FC:/Users/andre/Desktop/ALU/SimulacionALU/MULTPLICADOR.vhd
+l0
+L5 1
+VdAmRSZP7Y0R=?bnF06H@22
+!s100 lli3aNddGbZ?LS99>06OR1
+R7
+32
+R8
+!i10b 1
+R9
+Z42 !s90 -reportprogress|300|-work|work|C:/Users/andre/Desktop/ALU/SimulacionALU/MULTPLICADOR.vhd|
+Z43 !s107 C:/Users/andre/Desktop/ALU/SimulacionALU/MULTPLICADOR.vhd|
+!i113 1
+R12
+R13
+Aa_multiplicador
+R2
+R3
+R4
+DEx4 work 13 multiplicador 0 22 dAmRSZP7Y0R=?bnF06H@22
+!i122 8
+l18
+L12 43
+VH=FFdQ@eODBP3^Fz9IXVd0
+!s100 ^<lnL]f1S3IOXMgI0KgU=0
+R7
+32
+R8
+!i10b 1
+R9
+R42
+R43
+!i113 1
+R12
+R13
+Pmutl_paq
+R3
+R4
+!i122 3
+w1682029336
+R0
+8C:/Users/andre/Desktop/ALU/SimulacionALU/MUTL_paq.vhd
+FC:/Users/andre/Desktop/ALU/SimulacionALU/MUTL_paq.vhd
+l0
+L4 1
+V`<mM3Om5fLJcmH>9DI8?43
+!s100 LUaEG4jVLd[11ID6_kP>N2
+R7
+32
+R22
+!i10b 1
+R23
+!s90 -reportprogress|300|-work|work|C:/Users/andre/Desktop/ALU/SimulacionALU/MUTL_paq.vhd|
+!s107 C:/Users/andre/Desktop/ALU/SimulacionALU/MUTL_paq.vhd|
+!i113 1
+R12
+R13
+Emux00
+R21
+R3
+R4
+!i122 4
+R0
+Z44 8C:/Users/andre/Desktop/ALU/SimulacionALU/MUX00.vhd
+Z45 FC:/Users/andre/Desktop/ALU/SimulacionALU/MUX00.vhd
+l0
+L4 1
+VM@Q2ZAO7Z_<R1^7_fioa[0
+!s100 88S`bcdH`5Cm9clOL3TJR3
+R7
+32
+R22
+!i10b 1
+R23
+Z46 !s90 -reportprogress|300|-work|work|C:/Users/andre/Desktop/ALU/SimulacionALU/MUX00.vhd|
+Z47 !s107 C:/Users/andre/Desktop/ALU/SimulacionALU/MUX00.vhd|
+!i113 1
+R12
+R13
+Amux0
+R3
+R4
+DEx4 work 5 mux00 0 22 M@Q2ZAO7Z_<R1^7_fioa[0
+!i122 4
+l33
+L32 44
+V9lke@W`7[>m[>M0Yc7Rfz2
+!s100 6EQHK8of4[g<bV:SL6GYg2
+R7
+32
+R22
+!i10b 1
+R23
+R46
+R47
+!i113 1
+R12
+R13
+Emux11
+Z48 w1682297858
+R3
+R4
+!i122 14
+R0
+Z49 8C:/Users/andre/Desktop/ALU/SimulacionALU/MUX11.vhd
+Z50 FC:/Users/andre/Desktop/ALU/SimulacionALU/MUX11.vhd
+l0
+L4 1
+VBG8l37Q`oekYcUZdMmCjg3
+!s100 ;=oZbzD=M8>2MKXoFPHd12
+R7
+32
+R8
+!i10b 1
+R9
+Z51 !s90 -reportprogress|300|-work|work|C:/Users/andre/Desktop/ALU/SimulacionALU/MUX11.vhd|
+!s107 C:/Users/andre/Desktop/ALU/SimulacionALU/MUX11.vhd|
+!i113 1
+R12
+R13
+Amux1
+R3
+R4
+DEx4 work 5 mux11 0 22 BG8l37Q`oekYcUZdMmCjg3
+!i122 14
+l18
+L17 24
+Vl1?Bc<IffJ`J?O;QQoCa<1
+!s100 413N7gEMI57hkYiQmn_@92
+R7
+32
+R8
+!i10b 1
+R9
+R51
+Z52 !s107 C:/Users/andre/Desktop/ALU/SimulacionALU/MUX11.vhd|
+!i113 1
+R12
+R13
+Es88
+Z53 w1682369064
+Z54 DPx4 work 8 fa00_paq 0 22 gK99Hk^fVLCCkRe65cg:g3
+R30
+R3
+R4
+!i122 10
+R0
+Z55 8C:/Users/andre/Desktop/ALU/SimulacionALU/SUMADOR.vhd
+Z56 FC:/Users/andre/Desktop/ALU/SimulacionALU/SUMADOR.vhd
+l0
+L6 1
+Vn][Sa4anYM0AC:?SGfzN:0
+!s100 Ok?z1o<oJ@^RAQC7ji[?z3
+R7
+32
+R8
+!i10b 1
+R9
+Z57 !s90 -reportprogress|300|-work|work|C:/Users/andre/Desktop/ALU/SimulacionALU/SUMADOR.vhd|
+Z58 !s107 C:/Users/andre/Desktop/ALU/SimulacionALU/SUMADOR.vhd|
+!i113 1
+R12
+R13
+As880
+R54
+R30
+R3
+R4
+DEx4 work 3 s88 0 22 n][Sa4anYM0AC:?SGfzN:0
+!i122 10
+l17
+L15 28
+V;6@`S:XbOC>LHIB=_4nMn2
+!s100 c8M7]FOzzOe1kChH>[?LB3
+R7
+32
+R8
+!i10b 1
+R9
+R57
+R58
+!i113 1
+R12
+R13
+Esg88
+Z59 w1682367385
+R54
+R3
+R4
+!i122 9
+R0
+Z60 8C:/Users/andre/Desktop/ALU/SimulacionALU/RESTADOR.vhd
+Z61 FC:/Users/andre/Desktop/ALU/SimulacionALU/RESTADOR.vhd
+l0
+L5 1
+VhEX1_RmZRZnf<AMY_AF@C0
+!s100 A10=7;kA7`MbnnbnAl0^J1
+R7
+32
+R8
+!i10b 1
+R9
+Z62 !s90 -reportprogress|300|-work|work|C:/Users/andre/Desktop/ALU/SimulacionALU/RESTADOR.vhd|
+Z63 !s107 C:/Users/andre/Desktop/ALU/SimulacionALU/RESTADOR.vhd|
+!i113 1
+R12
+R13
+Asg880
+R54
+R3
+R4
+DEx4 work 4 sg88 0 22 hEX1_RmZRZnf<AMY_AF@C0
+!i122 9
+l17
+L14 61
+V@NUhf>R^H<?GV_C;:B3H63
+!s100 ;^CQEe^:;K;c`VhDgbMFU1
+R7
+32
+R8
+!i10b 1
+R9
+R62
+R63
+!i113 1
+R12
+R13
+Etestbench
+Z64 w1682533256
+R16
+R3
+R4
+!i122 12
+R0
+Z65 8C:/Users/andre/Desktop/ALU/SimulacionALU/TestBench.vhd
+Z66 FC:/Users/andre/Desktop/ALU/SimulacionALU/TestBench.vhd
+l0
+L5 1
+V_Bj^D4Ve2@<YIH8@`_8nL2
+!s100 VcMPGeTEHT?:DSVGP[Fi_1
+R7
+32
+R8
+!i10b 1
+R9
+Z67 !s90 -reportprogress|300|-work|work|C:/Users/andre/Desktop/ALU/SimulacionALU/TestBench.vhd|
+Z68 !s107 C:/Users/andre/Desktop/ALU/SimulacionALU/TestBench.vhd|
+!i113 1
+R12
+R13
+Atestbench0
+R16
+R3
+R4
+DEx4 work 9 testbench 0 22 _Bj^D4Ve2@<YIH8@`_8nL2
+!i122 12
+l36
+L8 155
+VozY:5iz>`@<jn_Q3z;^_R1
+!s100 Le^ljPdgjRkBBF@Q_<UDB3
+R7
+32
+R8
+!i10b 1
+R9
+R67
+R68
+!i113 1
+R12
+R13

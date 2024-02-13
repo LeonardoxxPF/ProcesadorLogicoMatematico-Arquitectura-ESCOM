@@ -1,0 +1,30 @@
+#Start recording tcl command: 4/23/2023 17:55:34
+#Project Location: C:/Users/morco/OneDrive/Desktop/ProyectosArqui/ALU; Project name: ALU
+C:/Users/morco/OneDrive/Desktop/ProyectosArqui/sumadorSIG
+sumadorSIG
+#Start recording tcl command: 4/23/2023 19:23:50
+#Project Location: C:/Users/morco/OneDrive/Desktop/ProyectosArqui/sumadorSIG; Project name: sumadorSIG
+prj_project open "C:/Users/morco/OneDrive/Desktop/ProyectosArqui/ALU/ALU.ldf"
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_project close
+prj_project open "C:/Users/morco/OneDrive/Desktop/ProyectosArqui/sumadorSIG/sumadorSIG.ldf"
+#Stop recording: 4/23/2023 19:23:51

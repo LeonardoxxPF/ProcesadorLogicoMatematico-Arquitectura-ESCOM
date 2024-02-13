@@ -1,0 +1,9 @@
+#Start recording tcl command: 6/22/2023 13:46:12
+#Project Location: C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/Memoria_Datos; Project name: MD
+prj_project open "C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/Memoria_Datos/MD.ldf"
+prj_src add "C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/Memoria_Datos/TestBench.vhd"
+prj_run Synthesis -impl MD
+prj_run Synthesis -impl MD
+prj_run Synthesis -impl MD
+prj_src add "C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/Memoria_Datos/SimulacionMemoriaDatos/SimulacionMemoriaDatos.spf"
+#Stop recording: 6/22/2023 14:06:29

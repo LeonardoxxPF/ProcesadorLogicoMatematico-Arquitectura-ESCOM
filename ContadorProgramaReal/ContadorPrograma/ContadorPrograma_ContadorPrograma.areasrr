@@ -1,0 +1,33 @@
+----------------------------------------------------------------------
+Report for cell top.contadorprograma
+
+Register bits: 8 of 6864 (0%)
+PIC Latch:       0
+I/O cells:       20
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                              CCU2D        5       100.0
+                            FD1P3DX        8       100.0
+                                GSR        1       100.0
+                                 IB       12       100.0
+                                INV        2       100.0
+                                 OB        8       100.0
+                                PUR        1       100.0
+                                VHI        2       100.0
+                                VLO        2       100.0
+SUB MODULES 
+                CONTADOR_PROGRAMA00        1       100.0
+                            
+                         TOTAL            42           
+----------------------------------------------------------------------
+Report for cell CONTADOR_PROGRAMA00.netlist
+     Instance path:  cto1
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                              CCU2D        5       100.0
+                            FD1P3DX        8       100.0
+                                INV        1        50.0
+                                VHI        1        50.0
+                                VLO        1        50.0
+                            
+                         TOTAL            16           

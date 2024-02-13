@@ -1,0 +1,8 @@
+#Start recording tcl command: 6/20/2023 14:14:25
+#Project Location: C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/Banco_Registro; Project name: BR
+prj_project new -name "BR" -impl "BR" -dev LCMXO2-7000HE-4TG144C -synthesis "synplify"
+prj_project save
+prj_src add "C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/Banco_Registro/Banco_Registros.vhd"
+prj_run Synthesis -impl BR
+prj_run Export -impl BR -task Jedecgen
+#Stop recording: 6/20/2023 14:42:45

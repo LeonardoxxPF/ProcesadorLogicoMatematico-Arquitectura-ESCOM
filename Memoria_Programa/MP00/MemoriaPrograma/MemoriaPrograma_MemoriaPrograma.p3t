@@ -1,0 +1,5 @@
+-rem
+-distrce
+-log "MemoriaPrograma_MemoriaPrograma.log"
+-o "MemoriaPrograma_MemoriaPrograma.csv"
+-pr "MemoriaPrograma_MemoriaPrograma.prf"

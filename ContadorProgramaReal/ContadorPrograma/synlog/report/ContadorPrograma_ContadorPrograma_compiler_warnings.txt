@@ -1,0 +1,2 @@
+@W: CL117 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\CP00.vhd":26:2:26:3|Latch generated from process for signal DOUT(7 downto 0); possible missing assignment in an if or case statement.
+

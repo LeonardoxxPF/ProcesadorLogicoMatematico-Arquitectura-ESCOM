@@ -1,0 +1,22 @@
+C:\lscc\diamond\3.12\synpbase\bin64\c_vhdl.exe  -osyn  C:\Users\andre\Desktop\ALU\ALU\synwork\ALU_ALU_hdl_.srs  -prodtype  synplify_pro  -dspmac -fixsmult -infer_seqShift -nram -sdff_counter -divnmod -nostructver  -encrypt  -pro  -dmgen  C:\Users\andre\Desktop\ALU\ALU\dm  -lite -ui -fid2 -ram -sharing on -ll 2000 -autosm  -ignore_undefined_lib  -lib work C:\lscc\diamond\3.12\cae_library\synthesis\vhdl\machxo2.vhd -lib work C:\Users\andre\Desktop\ALU\HA00.vhd -lib work C:\Users\andre\Desktop\ALU\HA00_paq.vhd -lib work C:\Users\andre\Desktop\ALU\FA00.vhd -lib work C:\Users\andre\Desktop\ALU\FA00_paq.vhd -lib work C:\Users\andre\Desktop\ALU\ADD.vhd -lib work C:\Users\andre\Desktop\ALU\MUTL_paq.vhd -lib work C:\Users\andre\Desktop\ALU\SUMADOR.vhd -lib work C:\Users\andre\Desktop\ALU\RESTADOR.vhd -lib work C:\Users\andre\Desktop\ALU\MULTPLICADOR.vhd -lib work C:\Users\andre\Desktop\ALU\COMPARADOR.vhd -lib work C:\Users\andre\Desktop\ALU\MUX00.vhd -lib work C:\Users\andre\Desktop\ALU\MUX11.vhd -lib work C:\Users\andre\Desktop\ALU\ALU_paq.vhd -lib work C:\Users\andre\Desktop\ALU\ALU00.vhd -lib work C:\Users\andre\Desktop\ALU\TestBench.vhd  -log  C:\Users\andre\Desktop\ALU\ALU\syntax.log  -fileorder  C:\Users\andre\Desktop\ALU\ALU\syntmp\hdlorder.tcl  -jobname  "hdl_info_gen" 
+relcom:..\..\..\..\..\..\lscc\diamond\3.12\synpbase\bin64\c_vhdl.exe -osyn ..\synwork\ALU_ALU_hdl_.srs -prodtype synplify_pro -dspmac -fixsmult -infer_seqShift -nram -sdff_counter -divnmod -nostructver -encrypt -pro -dmgen ..\dm -lite -ui -fid2 -ram -sharing on -ll 2000 -autosm -ignore_undefined_lib -lib work ..\..\..\..\..\..\lscc\diamond\3.12\cae_library\synthesis\vhdl\machxo2.vhd -lib work ..\..\HA00.vhd -lib work ..\..\HA00_paq.vhd -lib work ..\..\FA00.vhd -lib work ..\..\FA00_paq.vhd -lib work ..\..\ADD.vhd -lib work ..\..\MUTL_paq.vhd -lib work ..\..\SUMADOR.vhd -lib work ..\..\RESTADOR.vhd -lib work ..\..\MULTPLICADOR.vhd -lib work ..\..\COMPARADOR.vhd -lib work ..\..\MUX00.vhd -lib work ..\..\MUX11.vhd -lib work ..\..\ALU_paq.vhd -lib work ..\..\ALU00.vhd -lib work ..\..\TestBench.vhd -log ..\syntax.log -fileorder hdlorder.tcl -jobname "hdl_info_gen"
+rc:0 success:1 runtime:1
+file:..\synwork\ALU_ALU_hdl_.srs|io:o|time:0|size:-1|exec:0|csum:
+file:..\..\..\..\..\..\lscc\diamond\3.12\cae_library\synthesis\vhdl\machxo2.vhd|io:i|time:1542263532|size:73964|exec:0|csum:CFF92E93E4FE354031DBB4E0E47DD4A6
+file:..\..\HA00.vhd|io:i|time:1682029104|size:231|exec:0|csum:1A8EC8D73CA8C1963237E216FF6FAF77
+file:..\..\HA00_paq.vhd|io:i|time:1682029104|size:205|exec:0|csum:7A44DBE6F1BDB0962150C6CE27F943C9
+file:..\..\FA00.vhd|io:i|time:1682027624|size:445|exec:0|csum:780678BE8C3DB2F9971B7DC6D450FB4D
+file:..\..\FA00_paq.vhd|io:i|time:1682027624|size:225|exec:0|csum:7A5A7F88F8ED1B28318E2D6CF6573CB2
+file:..\..\ADD.vhd|io:i|time:1682029228|size:578|exec:0|csum:DD002C7A86156DF378C175E30394BFB9
+file:..\..\MUTL_paq.vhd|io:i|time:1682029336|size:590|exec:0|csum:831E3E5D170123A558879C68763EAA76
+file:..\..\SUMADOR.vhd|io:i|time:1682369064|size:846|exec:0|csum:20910AEC1936AB561C5F4FFDAA3F6321
+file:..\..\RESTADOR.vhd|io:i|time:1682367385|size:1295|exec:0|csum:68EC1927B158FDB5203685227C29D686
+file:..\..\MULTPLICADOR.vhd|io:i|time:1682029228|size:1309|exec:0|csum:CA5DA36454609C8CD24699F40AE02A77
+file:..\..\COMPARADOR.vhd|io:i|time:1682036625|size:414|exec:0|csum:444FBCA63267B817D5B2B06AE6E36052
+file:..\..\MUX00.vhd|io:i|time:1682376077|size:1701|exec:0|csum:DFA45375A7BE719CD88C3A065527F974
+file:..\..\MUX11.vhd|io:i|time:1682297858|size:649|exec:0|csum:DA4A17A1A533646CC075201A3A2079C6
+file:..\..\ALU_paq.vhd|io:i|time:1682376077|size:1968|exec:0|csum:5072430C36F235915F8B3F7163B01315
+file:..\..\ALU00.vhd|io:i|time:1682463239|size:1670|exec:0|csum:FA1CD47AF298C5A0669E54445E146312
+file:..\..\TestBench.vhd|io:i|time:1682533256|size:4104|exec:0|csum:E0EA94CDB0A39DFBB612A284F309E843
+file:..\syntax.log|io:o|time:1682533257|size:1104|exec:0|csum:
+file:..\..\..\..\..\..\lscc\diamond\3.12\synpbase\bin64\c_vhdl.exe|io:i|time:1603988322|size:6088192|exec:1|csum:65784030B81A37FDBF615E387BAB679B

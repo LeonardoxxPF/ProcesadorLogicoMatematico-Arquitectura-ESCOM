@@ -1,0 +1,21 @@
+---------------------------------------------------
+Report for cell top
+   Instance path: top
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       6.00        100.0
+                                  LUT4	       1.00        100.0
+                                 IOBUF	         20        100.0
+                                PFUREG	          8        100.0
+                                RIPPLE	          5        100.0
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                   CONTADOR_PROGRAMA00	          1        83.3
+---------------------------------------------------
+Report for cell CONTADOR_PROGRAMA00
+   Instance path: top/cto1
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       5.00        83.3
+                                PFUREG	          8        100.0
+                                RIPPLE	          5        100.0

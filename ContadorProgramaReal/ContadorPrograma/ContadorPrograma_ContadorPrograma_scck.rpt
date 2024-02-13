@@ -1,0 +1,47 @@
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-7A8SQ4U
+
+Implementation : ContadorPrograma
+
+# Written on Thu Jun 29 14:05:41 2023
+
+##### FILES SYNTAX CHECKED ##############################################
+Constraint File(s):      (none)
+
+#Run constraint checker to find more issues with constraints.
+#########################################################################
+
+
+
+No issues found in constraint syntax.
+
+
+
+Clock Summary
+*************
+
+          Start       Requested     Requested     Clock        Clock                   Clock
+Level     Clock       Frequency     Period        Type         Group                   Load 
+--------------------------------------------------------------------------------------------
+0 -       top|clk     100.0 MHz     10.000        inferred     Inferred_clkgroup_0     8    
+============================================================================================
+
+
+Clock Load Summary
+******************
+
+            Clock     Source        Clock Pin            Non-clock Pin     Non-clock Pin         
+Clock       Load      Pin           Seq Example          Seq Example       Comb Example          
+-------------------------------------------------------------------------------------------------
+top|clk     8         clk(port)     cto1.DOUT[7:0].C     -                 cto1.un1_clk.I[0](inv)
+=================================================================================================

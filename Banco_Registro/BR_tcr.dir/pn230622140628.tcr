@@ -1,0 +1,5 @@
+#Start recording tcl command: 6/22/2023 13:45:44
+#Project Location: C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/Banco_Registro; Project name: BR
+prj_project open "C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/Banco_Registro/BR.ldf"
+prj_run Synthesis -impl BR
+#Stop recording: 6/22/2023 14:06:28

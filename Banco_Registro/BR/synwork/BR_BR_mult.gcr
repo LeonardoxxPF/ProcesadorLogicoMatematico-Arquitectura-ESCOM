@@ -1,0 +1,8 @@
+i WE
+m 0 0
+u 2 2
+p {p:WE}{t:mem_1[7:0].CLK}
+e ckid0_0 {t:mem_1[7:0].CLK} ram1
+c ckid0_0 {p:WE} port Unsupported/too complex instance on clock path
+l 0 0 0 0 0
+r 0 0 0 0 0 0 0 0

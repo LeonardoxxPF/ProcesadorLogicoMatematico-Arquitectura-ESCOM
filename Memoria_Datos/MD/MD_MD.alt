@@ -1,0 +1,32 @@
+NOTE Copyright (C), 1992-2010, Lattice Semiconductor Corporation *
+NOTE All Rights Reserved *
+NOTE DATE CREATED: Tue Jun 20 15:47:43 2023 *
+NOTE DESIGN NAME: MemoriaDatos *
+NOTE DEVICE NAME: LCMXO2-7000HE-4TQFP144 *
+NOTE PIN ASSIGNMENTS *
+NOTE PINS Do[0] : 50 : out *
+NOTE PINS WD : 55 : in *
+NOTE PINS Do[7] : 35 : out *
+NOTE PINS Do[6] : 23 : out *
+NOTE PINS Do[5] : 25 : out *
+NOTE PINS Do[4] : 32 : out *
+NOTE PINS Do[3] : 47 : out *
+NOTE PINS Do[2] : 44 : out *
+NOTE PINS Do[1] : 43 : out *
+NOTE PINS Di[7] : 26 : in *
+NOTE PINS Di[6] : 27 : in *
+NOTE PINS Di[5] : 28 : in *
+NOTE PINS Di[4] : 34 : in *
+NOTE PINS Di[3] : 54 : in *
+NOTE PINS Di[2] : 49 : in *
+NOTE PINS Di[1] : 48 : in *
+NOTE PINS Di[0] : 45 : in *
+NOTE PINS A[6] : 40 : in *
+NOTE PINS A[5] : 31 : in *
+NOTE PINS A[4] : 33 : in *
+NOTE PINS A[3] : 39 : in *
+NOTE PINS A[2] : 42 : in *
+NOTE PINS A[1] : 41 : in *
+NOTE PINS A[0] : 38 : in *
+NOTE CONFIGURATION MODE: NONE *
+NOTE COMPRESSION: on *

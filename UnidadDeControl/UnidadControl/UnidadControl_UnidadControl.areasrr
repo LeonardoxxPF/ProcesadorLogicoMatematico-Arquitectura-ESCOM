@@ -1,0 +1,20 @@
+----------------------------------------------------------------------
+Report for cell unidadControl.unidadcontrol00
+
+Register bits: 0 of 6864 (0%)
+Latch bits:      5
+PIC Latch:       5
+I/O cells:       16
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                                GSR        1       100.0
+                                 IB        6       100.0
+                            IFS1S1B        5       100.0
+                                INV        1       100.0
+                                 OB       10       100.0
+                           ORCALUT4        6       100.0
+                                PUR        1       100.0
+                                VHI        1       100.0
+                                VLO        1       100.0
+                            
+                         TOTAL            32           

@@ -1,0 +1,19 @@
+----------------------------------------------------------------------
+Report for cell BancoRegistro.bancoregistro0
+
+Register bits: 0 of 6864 (0%)
+PIC Latch:       0
+I/O cells:       49
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                           DPR16X4C       64       100.0
+                                GSR        1       100.0
+                                 IB       33       100.0
+                              MUX81       32       100.0
+                                 OB       16       100.0
+                           ORCALUT4       48       100.0
+                                PUR        1       100.0
+                                VHI        1       100.0
+                                VLO        1       100.0
+                            
+                         TOTAL           197           

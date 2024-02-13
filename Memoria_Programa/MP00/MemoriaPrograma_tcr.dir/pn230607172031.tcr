@@ -1,0 +1,5 @@
+#Start recording tcl command: 6/7/2023 17:19:40
+#Project Location: C:/Users/morco/OneDrive/Desktop/ProyectosArqui/MP00; Project name: MemoriaPrograma
+prj_project open "C:/Users/morco/OneDrive/Desktop/ProyectosArqui/MP00/MemoriaPrograma.ldf"
+prj_project close
+#Stop recording: 6/7/2023 17:20:31

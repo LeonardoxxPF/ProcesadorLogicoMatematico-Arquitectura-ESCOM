@@ -1,0 +1,7 @@
+C:\lscc\diamond\3.12\synpbase\bin64\syn_nfilter.exe  -link  -top  work.MEMORIA_PROGRAMA00  -multisrs  C:\Users\morco\OneDrive\Desktop\Procesador\MP00\MemoriaPrograma\synwork\MemoriaPrograma_MemoriaPrograma_comp.srs  -osyn  C:\Users\morco\OneDrive\Desktop\Procesador\MP00\MemoriaPrograma\synwork\MemoriaPrograma_MemoriaPrograma_mult.srs  -log  C:\Users\morco\OneDrive\Desktop\Procesador\MP00\MemoriaPrograma\synlog\MemoriaPrograma_MemoriaPrograma_multi_srs_gen.srr 
+relcom:..\..\..\..\..\..\..\..\lscc\diamond\3.12\synpbase\bin64\syn_nfilter.exe -link -top work.MEMORIA_PROGRAMA00 -multisrs ..\synwork\MemoriaPrograma_MemoriaPrograma_comp.srs -osyn ..\synwork\MemoriaPrograma_MemoriaPrograma_mult.srs -log ..\synlog\MemoriaPrograma_MemoriaPrograma_multi_srs_gen.srr
+rc:0 success:1 runtime:0
+file:..\synwork\MemoriaPrograma_MemoriaPrograma_comp.srs|io:i|time:1687484568|size:1938|exec:0|csum:6088042300B9A8B1D97207AB176272B6
+file:..\synwork\MemoriaPrograma_MemoriaPrograma_mult.srs|io:o|time:1687484570|size:1704|exec:0|csum:
+file:..\synlog\MemoriaPrograma_MemoriaPrograma_multi_srs_gen.srr|io:o|time:1687484570|size:1192|exec:0|csum:
+file:..\..\..\..\..\..\..\..\lscc\diamond\3.12\synpbase\bin64\syn_nfilter.exe|io:i|time:1603988322|size:8875008|exec:1|csum:43373AFF0ED6BCEB26CB4B4947B972DD

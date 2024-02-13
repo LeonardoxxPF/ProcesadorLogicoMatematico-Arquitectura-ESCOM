@@ -1,0 +1,9 @@
+@N: CD630 :"C:\Users\morco\OneDrive\Desktop\Procesador\MP00\MP00.vhd":6:7:6:24|Synthesizing work.memoria_programa00.memoria_programa0.
+Post processing for work.memoria_programa00.memoria_programa0
+Running optimization stage 1 on MEMORIA_PROGRAMA00 .......
+Running optimization stage 2 on MEMORIA_PROGRAMA00 .......
+
+For a summary of runtime and memory usage per design unit, please see file:
+==========================================================
+@L: C:\Users\morco\OneDrive\Desktop\Procesador\MP00\MemoriaPrograma\synwork\layer0.rt.csv
+

@@ -1,0 +1,1 @@
+run_tcl -fg UnidadControl_UnidadControl_synplify.tcl

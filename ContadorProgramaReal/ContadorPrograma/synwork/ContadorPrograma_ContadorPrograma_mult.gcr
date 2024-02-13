@@ -1,0 +1,8 @@
+i clk
+m 0 0
+u 1 8
+p {p:clk}{t:cto1.CLK}{p:cto1.CLK}{t:cto1.un1_clk.I[0]}{t:cto1.un1_clk.OUT[0]}{t:cto1.DOUT[7:0].C}
+e ckid0_0 {t:cto1.DOUT[7:0].C} dffre
+c ckid0_0 {p:clk} port Unsupported/too complex instance on clock path
+l 0 0 0 0 0
+r 0 0 0 0 0 0 0 0

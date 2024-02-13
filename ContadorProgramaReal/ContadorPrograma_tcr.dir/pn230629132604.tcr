@@ -1,0 +1,10 @@
+#Start recording tcl command: 6/29/2023 13:12:50
+#Project Location: C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/ContadorProgramaReal; Project name: ContadorPrograma
+prj_project open "C:/Users/andre/Documents/University/Noveno Semestre/Arquitectura de computadoras/Procesador/ContadorProgramaReal/ContadorPrograma.ldf"
+prj_run Synthesis -impl ContadorPrograma
+prj_run Export -impl ContadorPrograma -task Jedecgen
+prj_run Synthesis -impl ContadorPrograma
+prj_run Export -impl ContadorPrograma -task Jedecgen
+prj_run Synthesis -impl ContadorPrograma
+prj_run Export -impl ContadorPrograma -task Jedecgen
+#Stop recording: 6/29/2023 13:26:04

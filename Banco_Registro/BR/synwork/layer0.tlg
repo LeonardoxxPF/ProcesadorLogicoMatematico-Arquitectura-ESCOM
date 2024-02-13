@@ -1,0 +1,11 @@
+@N: CD630 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\Banco_Registro\Banco_Registros.vhd":6:7:6:19|Synthesizing work.bancoregistro.bancoregistro0.
+Post processing for work.bancoregistro.bancoregistro0
+Running optimization stage 1 on BancoRegistro .......
+@N: CL134 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\Banco_Registro\Banco_Registros.vhd":19:8:19:10|Found RAM mem, depth=256, width=8
+@N: CL134 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\Banco_Registro\Banco_Registros.vhd":19:8:19:10|Found RAM mem, depth=256, width=8
+Running optimization stage 2 on BancoRegistro .......
+
+For a summary of runtime and memory usage per design unit, please see file:
+==========================================================
+@L: C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\Banco_Registro\BR\synwork\layer0.rt.csv
+

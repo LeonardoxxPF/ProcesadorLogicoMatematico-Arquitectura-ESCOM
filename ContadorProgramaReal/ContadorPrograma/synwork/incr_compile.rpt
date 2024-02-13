@@ -1,0 +1,51 @@
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-7A8SQ4U
+
+Implementation : ContadorPrograma
+Synopsys HDL compiler and linker, Version comp202003synp2, Build 182R, Built Oct 29 2020 10:49:53, @
+
+Modified Files: 1
+FID:  path (prevtimestamp, timestamp)
+0        C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\CP00.vhd (2023-06-29 13:20:58, 2023-06-29 14:04:34)
+
+*******************************************************************
+Modules that may have changed as a result of file changes: 1
+MID:  lib.cell.view
+0        work.contador_programa00.contador_programa0 may have changed because the following files changed:
+                        C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\CP00.vhd (2023-06-29 13:20:58, 2023-06-29 14:04:34) <-- (architecture and entity definition)
+
+*******************************************************************
+Unmodified files: 14
+FID:  path (timestamp)
+11       C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\CP00_paq.vhd (2023-06-29 13:21:55)
+12       C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\mux.vhd (2023-06-29 02:18:03)
+13       C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\mux_paq.vhd (2023-06-29 02:18:52)
+14       C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\top.vhd (2023-06-29 13:39:32)
+1        C:\lscc\diamond\3.12\cae_library\synthesis\vhdl\machxo2.vhd (2018-11-15 00:32:12)
+2        C:\lscc\diamond\3.12\synpbase\lib\vhd\arith.vhd (2020-10-29 10:23:10)
+3        C:\lscc\diamond\3.12\synpbase\lib\vhd\hyperents.vhd (2020-10-29 10:23:10)
+4        C:\lscc\diamond\3.12\synpbase\lib\vhd\location.map (2020-11-02 17:26:20)
+5        C:\lscc\diamond\3.12\synpbase\lib\vhd\numeric.vhd (2020-10-29 10:23:10)
+6        C:\lscc\diamond\3.12\synpbase\lib\vhd\snps_haps_pkg.vhd (2020-10-29 10:23:10)
+7        C:\lscc\diamond\3.12\synpbase\lib\vhd\std.vhd (2020-10-29 10:23:10)
+8        C:\lscc\diamond\3.12\synpbase\lib\vhd\std1164.vhd (2020-10-29 10:23:10)
+9        C:\lscc\diamond\3.12\synpbase\lib\vhd\umr_capim.vhd (2020-10-29 10:23:10)
+10       C:\lscc\diamond\3.12\synpbase\lib\vhd\unsigned.vhd (2020-10-29 10:23:10)
+
+*******************************************************************
+Unchanged modules: 4
+MID:  lib.cell.view
+2        work.mux2_1.mux00
+3        work.mux2_1.vhdl
+4        work.top.contadorprograma
+5        work.top.vhdl

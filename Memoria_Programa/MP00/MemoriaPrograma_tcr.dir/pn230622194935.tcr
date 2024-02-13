@@ -1,0 +1,26 @@
+#Start recording tcl command: 6/22/2023 19:18:40
+#Project Location: C:/Users/morco/OneDrive/Desktop/Procesador/MP00; Project name: MemoriaPrograma
+prj_project open "C:/Users/morco/OneDrive/Desktop/Procesador/MP00/MemoriaPrograma.ldf"
+prj_run Synthesis -impl MemoriaPrograma -task Synplify_Synthesis
+prj_run Export -impl MemoriaPrograma -task Jedecgen
+prj_run Synthesis -impl MemoriaPrograma -task Synplify_Synthesis
+prj_run Export -impl MemoriaPrograma -task Jedecgen
+prj_run Synthesis -impl MemoriaPrograma -task Synplify_Synthesis
+prj_run Export -impl MemoriaPrograma -task Jedecgen
+prj_run Synthesis -impl MemoriaPrograma -task Synplify_Synthesis
+prj_run Export -impl MemoriaPrograma -task Jedecgen
+pgr_project save "C:/Users/morco/OneDrive/Desktop/Procesador/MP00/MemoriaPrograma/MemoriaPrograma.xcf"
+prj_src add -exclude "C:/Users/morco/OneDrive/Desktop/Procesador/MP00/MemoriaPrograma/MemoriaPrograma.xcf"
+prj_src enable "C:/Users/morco/OneDrive/Desktop/Procesador/MP00/MemoriaPrograma/MemoriaPrograma.xcf"
+pgr_program run
+prj_run Synthesis -impl MemoriaPrograma -task Synplify_Synthesis
+prj_run Export -impl MemoriaPrograma -task Jedecgen
+prj_run Synthesis -impl MemoriaPrograma -task Synplify_Synthesis
+prj_run Export -impl MemoriaPrograma -task Jedecgen
+pgr_project save "C:/Users/morco/OneDrive/Desktop/Procesador/MP00/MemoriaPrograma/MemoriaPrograma.xcf"
+pgr_project close
+pgr_project open "C:/Users/morco/OneDrive/Desktop/Procesador/MP00/MemoriaPrograma/MemoriaPrograma.xcf"
+pgr_program run
+prj_project save
+prj_project close
+#Stop recording: 6/22/2023 19:49:35

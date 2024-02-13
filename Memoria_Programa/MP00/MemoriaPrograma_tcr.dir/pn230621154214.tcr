@@ -1,0 +1,8 @@
+#Start recording tcl command: 6/21/2023 15:23:21
+#Project Location: C:/Users/morco/OneDrive/Desktop/Procesador/MP00; Project name: MemoriaPrograma
+prj_project open "C:/Users/morco/OneDrive/Desktop/Procesador/MP00/MemoriaPrograma.ldf"
+prj_run Synthesis -impl MemoriaPrograma -task Synplify_Synthesis
+prj_run Synthesis -impl MemoriaPrograma -task Synplify_Synthesis
+prj_run Synthesis -impl MemoriaPrograma -task Synplify_Synthesis
+prj_project close
+#Stop recording: 6/21/2023 15:42:14

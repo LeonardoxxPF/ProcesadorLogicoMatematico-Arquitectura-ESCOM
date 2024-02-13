@@ -1,0 +1,2 @@
+set_option -top_module work.MemoriaDatos
+project -fileorder "C:/lscc/diamond/3.12/cae_library/synthesis/vhdl/machxo2.vhd" "C:/Users/andre/Documents/University/Noveno\ Semestre/Arquitectura\ de\ computadoras/Procesador/Memoria_Datos/MemoriaDatos.vhd" "C:/Users/andre/Documents/University/Noveno\ Semestre/Arquitectura\ de\ computadoras/Procesador/Memoria_Datos/TestBench.vhd" 

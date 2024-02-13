@@ -1,0 +1,11 @@
+@N: CD630 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\Memoria_Datos\MemoriaDatos.vhd":6:7:6:18|Synthesizing work.memoriadatos.memoriadatos0.
+Post processing for work.memoriadatos.memoriadatos0
+Running optimization stage 1 on MemoriaDatos .......
+@N: CL134 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\Memoria_Datos\MemoriaDatos.vhd":17:8:17:10|Found RAM ram, depth=128, width=8
+Running optimization stage 2 on MemoriaDatos .......
+@W: CL247 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\Memoria_Datos\MemoriaDatos.vhd":9:2:9:2|Input port bit 7 of a(7 downto 0) is unused 
+
+For a summary of runtime and memory usage per design unit, please see file:
+==========================================================
+@L: C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\Memoria_Datos\MD\synwork\layer0.rt.csv
+

@@ -1,0 +1,483 @@
+---------------------------------------------------
+Report for cell ALU00
+   Instance path: ALU00
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	      71.00        100.0
+                                  LUT4	     116.00        100.0
+                                 IOBUF	         34        100.0
+                                RIPPLE	         13        100.0
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                                  SG88	          1        12.7
+                                   S88	          1         7.7
+                         Multiplicador	          1        19.0
+                                 MUX00	          1        42.3
+---------------------------------------------------
+Report for cell MUX00
+   Instance path: ALU00/ALU5
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	      30.00        42.3
+                                  LUT4	      60.00        51.7
+---------------------------------------------------
+Report for cell Multiplicador
+   Instance path: ALU00/ALU2
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	      13.50        19.0
+                                  LUT4	      27.00        23.3
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                                 ADD_2	          1         4.9
+                                   ADD	          1         4.9
+                                 ADD_1	          1         7.7
+---------------------------------------------------
+Report for cell ADD_1
+   Instance path: ALU00/ALU2/FA3
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       5.50         7.7
+                                  LUT4	      11.00         9.5
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                       FA00_18_19_3_21	          1         3.5
+                                FA00_2	          1         0.7
+                       FA00_18_19_3_19	          1         1.4
+                       FA00_18_19_3_20	          1         2.1
+---------------------------------------------------
+Report for cell FA00_18_19_3_21
+   Instance path: ALU00/ALU2/FA3/FA4
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       2.50         3.5
+                                  LUT4	       5.00         4.3
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                          HA00_5_39_49	          1         3.5
+---------------------------------------------------
+Report for cell HA00_5_39_49
+   Instance path: ALU00/ALU2/FA3/FA4/HA_1
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       2.50         3.5
+                                  LUT4	       5.00         4.3
+---------------------------------------------------
+Report for cell FA00_18_19_3_20
+   Instance path: ALU00/ALU2/FA3/FA3
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.50         2.1
+                                  LUT4	       3.00         2.6
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                          HA00_5_39_46	          1         0.7
+                          HA00_5_39_47	          1         0.7
+---------------------------------------------------
+Report for cell HA00_5_39_47
+   Instance path: ALU00/ALU2/FA3/FA3/HA_1
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell HA00_5_39_46
+   Instance path: ALU00/ALU2/FA3/FA3/HA_0
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell FA00_18_19_3_19
+   Instance path: ALU00/ALU2/FA3/FA2
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         1.4
+                                  LUT4	       2.00         1.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                          HA00_5_39_45	          1         0.7
+---------------------------------------------------
+Report for cell HA00_5_39_45
+   Instance path: ALU00/ALU2/FA3/FA2/HA_1
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell FA00_2
+   Instance path: ALU00/ALU2/FA3/FA1
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                          HA00_5_39_43	          1         0.7
+---------------------------------------------------
+Report for cell HA00_5_39_43
+   Instance path: ALU00/ALU2/FA3/FA1/HA_0
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell ADD
+   Instance path: ALU00/ALU2/FA2
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       3.50         4.9
+                                  LUT4	       7.00         6.0
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                       FA00_18_19_3_17	          1         1.4
+                       FA00_18_19_3_18	          1         0.7
+                       FA00_18_19_3_16	          1         1.4
+                                FA00_1	          1         1.4
+---------------------------------------------------
+Report for cell FA00_18_19_3_18
+   Instance path: ALU00/ALU2/FA2/FA4
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell FA00_18_19_3_17
+   Instance path: ALU00/ALU2/FA2/FA3
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         1.4
+                                  LUT4	       2.00         1.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                          HA00_5_39_39	          1         0.7
+---------------------------------------------------
+Report for cell HA00_5_39_39
+   Instance path: ALU00/ALU2/FA2/FA3/HA_0
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell FA00_18_19_3_16
+   Instance path: ALU00/ALU2/FA2/FA2
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         1.4
+                                  LUT4	       2.00         1.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                          HA00_5_39_38	          1         0.7
+---------------------------------------------------
+Report for cell HA00_5_39_38
+   Instance path: ALU00/ALU2/FA2/FA2/HA_1
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell FA00_1
+   Instance path: ALU00/ALU2/FA2/FA1
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         1.4
+                                  LUT4	       2.00         1.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                          HA00_5_39_36	          1         1.4
+---------------------------------------------------
+Report for cell HA00_5_39_36
+   Instance path: ALU00/ALU2/FA2/FA1/HA_0
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         1.4
+                                  LUT4	       2.00         1.7
+---------------------------------------------------
+Report for cell ADD_2
+   Instance path: ALU00/ALU2/FA1
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       3.50         4.9
+                                  LUT4	       7.00         6.0
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                       FA00_18_19_3_15	          1         1.4
+                       FA00_18_19_3_14	          1         1.4
+                               FA00_15	          1         0.7
+                                  FA00	          1         1.4
+---------------------------------------------------
+Report for cell FA00_15
+   Instance path: ALU00/ALU2/FA1/FA4
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                          HA00_5_39_35	          1         0.7
+---------------------------------------------------
+Report for cell HA00_5_39_35
+   Instance path: ALU00/ALU2/FA1/FA4/HA_1
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell FA00_18_19_3_15
+   Instance path: ALU00/ALU2/FA1/FA3
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         1.4
+                                  LUT4	       2.00         1.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                          HA00_5_39_34	          1         0.7
+---------------------------------------------------
+Report for cell HA00_5_39_34
+   Instance path: ALU00/ALU2/FA1/FA3/HA_1
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell FA00_18_19_3_14
+   Instance path: ALU00/ALU2/FA1/FA2
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         1.4
+                                  LUT4	       2.00         1.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                          HA00_5_39_32	          1         0.7
+---------------------------------------------------
+Report for cell HA00_5_39_32
+   Instance path: ALU00/ALU2/FA1/FA2/HA_1
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell FA00
+   Instance path: ALU00/ALU2/FA1/FA1
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         1.4
+                                  LUT4	       2.00         1.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                          HA00_5_39_30	          1         1.4
+---------------------------------------------------
+Report for cell HA00_5_39_30
+   Instance path: ALU00/ALU2/FA1/FA1/HA_0
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         1.4
+                                  LUT4	       2.00         1.7
+---------------------------------------------------
+Report for cell SG88
+   Instance path: ALU00/ALU1
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       9.00        12.7
+                                  LUT4	      18.00        15.5
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                       FA00_18_19_3_10	          1         0.7
+                        FA00_18_19_3_7	          1         2.8
+                        FA00_18_19_3_9	          1         0.7
+                        FA00_18_19_3_8	          1         0.7
+                        FA00_18_19_3_6	          1         0.7
+                       FA00_18_19_3_12	          1         1.4
+                       FA00_18_19_3_11	          1         0.7
+---------------------------------------------------
+Report for cell FA00_18_19_3_12
+   Instance path: ALU00/ALU1/A14
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         1.4
+                                  LUT4	       2.00         1.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                          HA00_5_39_27	          1         0.7
+---------------------------------------------------
+Report for cell HA00_5_39_27
+   Instance path: ALU00/ALU1/A14/HA_1
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell FA00_18_19_3_11
+   Instance path: ALU00/ALU1/A13
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell FA00_18_19_3_10
+   Instance path: ALU00/ALU1/A12
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell FA00_18_19_3_9
+   Instance path: ALU00/ALU1/A11
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell FA00_18_19_3_8
+   Instance path: ALU00/ALU1/A10
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell FA00_18_19_3_7
+   Instance path: ALU00/ALU1/A09
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       2.00         2.8
+                                  LUT4	       4.00         3.4
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                          HA00_5_39_17	          1         2.1
+---------------------------------------------------
+Report for cell HA00_5_39_17
+   Instance path: ALU00/ALU1/A09/HA_1
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.50         2.1
+                                  LUT4	       3.00         2.6
+---------------------------------------------------
+Report for cell FA00_18_19_3_6
+   Instance path: ALU00/ALU1/A08
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell S88
+   Instance path: ALU00/ALU0
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       5.50         7.7
+                                  LUT4	      11.00         9.5
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                        FA00_18_19_3_5	          1         0.7
+                        FA00_18_19_3_4	          1         0.7
+                        FA00_18_19_3_3	          1         1.4
+                        FA00_18_19_3_2	          1         1.4
+                          FA00_18_19_3	          1         1.4
+                        FA00_18_19_3_0	          1         1.4
+                        FA00_18_19_3_1	          1         0.7
+---------------------------------------------------
+Report for cell FA00_18_19_3_5
+   Instance path: ALU00/ALU0/FA_6
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell FA00_18_19_3_4
+   Instance path: ALU00/ALU0/FA_5
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell FA00_18_19_3_3
+   Instance path: ALU00/ALU0/FA_4
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         1.4
+                                  LUT4	       2.00         1.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                           HA00_5_39_8	          1         0.7
+---------------------------------------------------
+Report for cell HA00_5_39_8
+   Instance path: ALU00/ALU0/FA_4/HA_0
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell FA00_18_19_3_2
+   Instance path: ALU00/ALU0/FA_3
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         1.4
+                                  LUT4	       2.00         1.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                           HA00_5_39_7	          1         0.7
+                           HA00_5_39_6	          1         0.7
+---------------------------------------------------
+Report for cell HA00_5_39_7
+   Instance path: ALU00/ALU0/FA_3/HA_1
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell HA00_5_39_6
+   Instance path: ALU00/ALU0/FA_3/HA_0
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell FA00_18_19_3_1
+   Instance path: ALU00/ALU0/FA_2
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                           HA00_5_39_4	          1         0.7
+---------------------------------------------------
+Report for cell HA00_5_39_4
+   Instance path: ALU00/ALU0/FA_2/HA_0
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell FA00_18_19_3_0
+   Instance path: ALU00/ALU0/FA_1
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         1.4
+                                  LUT4	       2.00         1.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                           HA00_5_39_2	          1         0.7
+---------------------------------------------------
+Report for cell HA00_5_39_2
+   Instance path: ALU00/ALU0/FA_1/HA_0
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9
+---------------------------------------------------
+Report for cell FA00_18_19_3
+   Instance path: ALU00/ALU0/FA_0
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       1.00         1.4
+                                  LUT4	       2.00         1.7
+SUB MODULES
+                                  cell	      count    SLC Usage(%)
+                           HA00_5_39_0	          1         0.7
+---------------------------------------------------
+Report for cell HA00_5_39_0
+   Instance path: ALU00/ALU0/FA_0/HA_0
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  SLIC	       0.50         0.7
+                                  LUT4	       1.00         0.9

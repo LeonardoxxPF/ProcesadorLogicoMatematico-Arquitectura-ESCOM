@@ -1,0 +1,13 @@
+#Start recording tcl command: 4/23/2023 19:32:32
+#Project Location: C:/Users/morco/OneDrive/Desktop/ProyectosArqui/ALU; Project name: ALU
+prj_project open "C:/Users/morco/OneDrive/Desktop/ProyectosArqui/ALU/ALU.ldf"
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+prj_run Synthesis -impl ALU -task Synplify_Synthesis
+#Stop recording: 4/23/2023 19:46:46

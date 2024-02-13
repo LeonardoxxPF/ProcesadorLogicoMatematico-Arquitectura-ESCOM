@@ -1,0 +1,17 @@
+----------------------------------------------------------------------
+Report for cell MEMORIA_PROGRAMA00.memoria_programa0
+
+Register bits: 0 of 6864 (0%)
+PIC Latch:       0
+I/O cells:       38
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                                GSR        1       100.0
+                                 IB        6       100.0
+                                 OB       32       100.0
+                                PUR        1       100.0
+                           ROM64X1A       26       100.0
+                                VHI        1       100.0
+                                VLO        1       100.0
+                            
+                         TOTAL            68           

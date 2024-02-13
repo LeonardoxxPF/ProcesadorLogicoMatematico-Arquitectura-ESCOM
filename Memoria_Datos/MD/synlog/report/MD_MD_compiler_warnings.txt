@@ -1,0 +1,2 @@
+@W: CL247 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\Memoria_Datos\MemoriaDatos.vhd":9:2:9:2|Input port bit 7 of a(7 downto 0) is unused 
+

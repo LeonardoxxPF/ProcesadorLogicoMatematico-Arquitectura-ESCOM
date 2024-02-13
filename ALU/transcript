@@ -1,0 +1,191 @@
+# Reading pref.tcl
+# do {C:/Users/andre/Desktop/ALU/SimulacionALU/SimulacionALU.mdo}
+# Loading project SimulacionALU
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 12:22:39 on Apr 26,2023
+# vcom -reportprogress 300 -work work C:/Users/andre/Desktop/ALU/SimulacionALU/ALU_paq.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package ALU_paq
+# End time: 12:22:39 on Apr 26,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 12:22:39 on Apr 26,2023
+# vcom -reportprogress 300 -work work C:/Users/andre/Desktop/ALU/SimulacionALU/HA00_paq.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package HA00_paq
+# End time: 12:22:39 on Apr 26,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 12:22:39 on Apr 26,2023
+# vcom -reportprogress 300 -work work C:/Users/andre/Desktop/ALU/SimulacionALU/FA00_paq.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package FA00_paq
+# End time: 12:22:39 on Apr 26,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 12:22:39 on Apr 26,2023
+# vcom -reportprogress 300 -work work C:/Users/andre/Desktop/ALU/SimulacionALU/MUTL_paq.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package MUTL_paq
+# End time: 12:22:39 on Apr 26,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 12:22:39 on Apr 26,2023
+# vcom -reportprogress 300 -work work C:/Users/andre/Desktop/ALU/SimulacionALU/MUX00.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity MUX00
+# -- Compiling architecture MUX0 of MUX00
+# End time: 12:22:39 on Apr 26,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 12:22:40 on Apr 26,2023
+# vcom -reportprogress 300 -work work C:/Users/andre/Desktop/ALU/SimulacionALU/HA00.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity HA00
+# -- Compiling architecture HA0 of HA00
+# End time: 12:22:40 on Apr 26,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 12:22:40 on Apr 26,2023
+# vcom -reportprogress 300 -work work C:/Users/andre/Desktop/ALU/SimulacionALU/FA00.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package HA00_paq
+# -- Compiling entity FA00
+# -- Compiling architecture FA0 of FA00
+# End time: 12:22:40 on Apr 26,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 12:22:40 on Apr 26,2023
+# vcom -reportprogress 300 -work work C:/Users/andre/Desktop/ALU/SimulacionALU/ADD.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MUTL_paq
+# -- Compiling entity ADD
+# -- Compiling architecture ADD0 of ADD
+# End time: 12:22:40 on Apr 26,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 12:22:40 on Apr 26,2023
+# vcom -reportprogress 300 -work work C:/Users/andre/Desktop/ALU/SimulacionALU/MULTPLICADOR.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MUTL_paq
+# -- Compiling entity Multiplicador
+# -- Compiling architecture a_Multiplicador of Multiplicador
+# End time: 12:22:40 on Apr 26,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 12:22:40 on Apr 26,2023
+# vcom -reportprogress 300 -work work C:/Users/andre/Desktop/ALU/SimulacionALU/RESTADOR.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package FA00_paq
+# -- Compiling entity SG88
+# -- Compiling architecture SG880 of SG88
+# End time: 12:22:40 on Apr 26,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 12:22:40 on Apr 26,2023
+# vcom -reportprogress 300 -work work C:/Users/andre/Desktop/ALU/SimulacionALU/SUMADOR.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package HA00_paq
+# -- Loading package FA00_paq
+# -- Compiling entity S88
+# -- Compiling architecture S880 of S88
+# End time: 12:22:40 on Apr 26,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 12:22:40 on Apr 26,2023
+# vcom -reportprogress 300 -work work C:/Users/andre/Desktop/ALU/SimulacionALU/ALU00.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package ALU_paq
+# -- Compiling entity ALU00
+# -- Compiling architecture ALU0 of ALU00
+# End time: 12:22:40 on Apr 26,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 12:22:40 on Apr 26,2023
+# vcom -reportprogress 300 -work work C:/Users/andre/Desktop/ALU/SimulacionALU/TestBench.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package ALU_paq
+# -- Compiling entity TestBench
+# -- Compiling architecture TestBench0 of TestBench
+# End time: 12:22:40 on Apr 26,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 12:22:40 on Apr 26,2023
+# vcom -reportprogress 300 -work work C:/Users/andre/Desktop/ALU/SimulacionALU/COMPARADOR.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity COM00
+# -- Compiling architecture COM0 of COM00
+# End time: 12:22:40 on Apr 26,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 12:22:40 on Apr 26,2023
+# vcom -reportprogress 300 -work work C:/Users/andre/Desktop/ALU/SimulacionALU/MUX11.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity MUX11
+# -- Compiling architecture MUX1 of MUX11
+# End time: 12:22:40 on Apr 26,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -L work -L pmi_work -L ovi_machxo2 TestBench 
+# Start time: 12:22:40 on Apr 26,2023
+# //  ModelSim - Lattice FPGA Edition 2020.3 Oct 14 2020
+# //
+# //  Copyright 1991-2020 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim - Lattice FPGA Edition and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.alu_paq
+# Loading work.testbench(testbench0)
+# Loading work.alu00(alu0)
+# Loading work.ha00_paq
+# Loading work.fa00_paq
+# Loading work.s88(s880)
+# Loading work.ha00(ha0)
+# Loading work.fa00(fa0)
+# Loading work.sg88(sg880)
+# Loading work.mutl_paq
+# Loading work.multiplicador(a_multiplicador)
+# Loading work.add(add0)
+# Loading work.mux00(mux0)
+# .main_pane.wave.interior.cs.body.pw.wf
+# End time: 12:27:00 on Apr 26,2023, Elapsed time: 0:04:20
+# Errors: 0, Warnings: 18

@@ -1,0 +1,1 @@
+run_tcl -fg MemoriaPrograma_MemoriaPrograma_synplify.tcl

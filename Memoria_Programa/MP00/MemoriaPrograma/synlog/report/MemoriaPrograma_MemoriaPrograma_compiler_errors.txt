@@ -1,0 +1,5 @@
+@E: CD145 :"C:\Users\morco\OneDrive\Desktop\Procesador\MP00\MP00.vhd":128:1:128:29|Formal, "rom_19", and actual agree on type but not on size
+@E: CD145 :"C:\Users\morco\OneDrive\Desktop\Procesador\MP00\MP00.vhd":127:1:127:33|Formal, "rom_18", and actual agree on type but not on size
+@E: CD145 :"C:\Users\morco\OneDrive\Desktop\Procesador\MP00\MP00.vhd":108:1:108:30|Formal, "rom_1", and actual agree on type but not on size
+@E: CD145 :"C:\Users\morco\OneDrive\Desktop\Procesador\MP00\MP00.vhd":107:1:107:30|Formal, "rom_0", and actual agree on type but not on size
+

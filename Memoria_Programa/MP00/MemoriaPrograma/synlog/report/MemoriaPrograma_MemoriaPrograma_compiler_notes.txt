@@ -1,0 +1,6 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N:"C:\Users\morco\OneDrive\Desktop\Procesador\MP00\MP00.vhd":6:7:6:24|Top entity is set to MEMORIA_PROGRAMA00.
+@N: CD630 :"C:\Users\morco\OneDrive\Desktop\Procesador\MP00\MP00.vhd":6:7:6:24|Synthesizing work.memoria_programa00.memoria_programa0.
+@N|Running in 64-bit mode
+

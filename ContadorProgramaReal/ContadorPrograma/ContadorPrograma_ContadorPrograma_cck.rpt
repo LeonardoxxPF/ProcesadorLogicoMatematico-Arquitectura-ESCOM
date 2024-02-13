@@ -1,0 +1,92 @@
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-7A8SQ4U
+
+Implementation : ContadorPrograma
+
+# Written on Thu Jun 29 14:05:42 2023
+
+##### DESIGN INFO #######################################################
+
+Top View:                "top"
+Constraint File(s):      (none)
+
+
+
+
+##### SUMMARY ############################################################
+
+Found 0 issues in 0 out of 0 constraints
+
+
+##### DETAILS ############################################################
+
+
+
+Clock Relationships
+*******************
+
+Starting     Ending      |     rise to rise     |     fall to fall     |     rise to fall     |     fall to rise                     
+------------------------------------------------------------------------------------------------------------------------------------
+top|clk      top|clk     |     No paths         |     10.000           |     No paths         |     No paths                         
+====================================================================================================================================
+ Note: 'No paths' indicates there are no paths in the design for that pair of clock edges.
+       'Diff grp' indicates that paths exist but the starting clock and ending clock are in different clock groups.
+
+
+Unconstrained Start/End Points
+******************************
+
+p:busEntradaInfluido[0]
+p:busEntradaInfluido[1]
+p:busEntradaInfluido[2]
+p:busEntradaInfluido[3]
+p:busEntradaInfluido[4]
+p:busEntradaInfluido[5]
+p:busEntradaInfluido[6]
+p:busEntradaInfluido[7]
+p:busSalida[0]
+p:busSalida[1]
+p:busSalida[2]
+p:busSalida[3]
+p:busSalida[4]
+p:busSalida[5]
+p:busSalida[6]
+p:busSalida[7]
+p:reset
+p:selector
+p:wpc
+
+
+Inapplicable constraints
+************************
+
+(none)
+
+
+Applicable constraints with issues
+**********************************
+
+(none)
+
+
+Constraints with matching wildcard expressions
+**********************************************
+
+(none)
+
+
+Library Report
+**************
+
+
+# End of Constraint Checker Report

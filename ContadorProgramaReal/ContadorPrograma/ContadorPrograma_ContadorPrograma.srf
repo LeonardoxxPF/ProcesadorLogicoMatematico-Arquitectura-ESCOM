@@ -1,0 +1,549 @@
+#Build: Synplify Pro (R) Q-2020.03L-SP1, Build 182R, Oct 29 2020
+#install: C:\lscc\diamond\3.12\synpbase
+#OS: Windows 8 6.2
+#Hostname: DESKTOP-7A8SQ4U
+
+# Thu Jun 29 14:05:38 2023
+
+#Implementation: ContadorPrograma
+
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-7A8SQ4U
+
+Implementation : ContadorPrograma
+Synopsys HDL Compiler, Version comp202003synp2, Build 182R, Built Oct 29 2020 10:49:53, @
+
+@N|Running in 64-bit mode
+###########################################################[
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-7A8SQ4U
+
+Implementation : ContadorPrograma
+Synopsys VHDL Compiler, Version comp202003synp2, Build 182R, Built Oct 29 2020 10:49:53, @
+
+@N|Running in 64-bit mode
+@N:"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\top.vhd":8:7:8:9|Top entity is set to top.
+File C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\CP00.vhd changed - recompiling
+VHDL syntax check successful!
+File C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\CP00.vhd changed - recompiling
+@N: CD630 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\top.vhd":8:7:8:9|Synthesizing work.top.contadorprograma.
+@N: CD630 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\CP00.vhd":8:7:8:25|Synthesizing work.contador_programa00.contador_programa0.
+Post processing for work.contador_programa00.contador_programa0
+Running optimization stage 1 on CONTADOR_PROGRAMA00 .......
+@N: CD630 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\mux.vhd":6:7:6:12|Synthesizing work.mux2_1.mux00.
+Post processing for work.mux2_1.mux00
+Running optimization stage 1 on mux2_1 .......
+Post processing for work.top.contadorprograma
+Running optimization stage 1 on top .......
+Running optimization stage 2 on mux2_1 .......
+Running optimization stage 2 on CONTADOR_PROGRAMA00 .......
+Running optimization stage 2 on top .......
+
+For a summary of runtime and memory usage per design unit, please see file:
+==========================================================
+@L: C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\ContadorPrograma\synwork\layer0.rt.csv
+
+
+At c_vhdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 90MB peak: 91MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Thu Jun 29 14:05:39 2023
+
+###########################################################]
+###########################################################[
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-7A8SQ4U
+
+Implementation : ContadorPrograma
+Synopsys Synopsys Netlist Linker, Version comp202003synp2, Build 182R, Built Oct 29 2020 10:49:53, @
+
+@N|Running in 64-bit mode
+File C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\ContadorPrograma\synwork\layer0.srs changed - recompiling
+
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 90MB peak: 90MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Thu Jun 29 14:05:40 2023
+
+###########################################################]
+
+For a summary of runtime and memory usage for all design units, please see file:
+==========================================================
+@L: C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\ContadorPrograma\synwork\ContadorPrograma_ContadorPrograma_comp.rt.csv
+
+@END
+
+At c_hdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 23MB peak: 23MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Thu Jun 29 14:05:40 2023
+
+###########################################################]
+###########################################################[
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-7A8SQ4U
+
+Implementation : ContadorPrograma
+Synopsys Synopsys Netlist Linker, Version comp202003synp2, Build 182R, Built Oct 29 2020 10:49:53, @
+
+@N|Running in 64-bit mode
+File C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\ContadorPrograma\synwork\ContadorPrograma_ContadorPrograma_comp.srs changed - recompiling
+
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 90MB peak: 91MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Thu Jun 29 14:05:41 2023
+
+###########################################################]
+Premap Report
+
+# Thu Jun 29 14:05:41 2023
+
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-7A8SQ4U
+
+Implementation : ContadorPrograma
+Synopsys Lattice Technology Pre-mapping, Version map202003lat, Build 172R, Built Nov  2 2020 09:31:45, @
+
+
+Mapper Startup Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 118MB peak: 118MB)
+
+@A: MF827 |No constraint file specified.
+@L: C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\ContadorPrograma\ContadorPrograma_ContadorPrograma_scck.rpt 
+See clock summary report "C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\ContadorPrograma\ContadorPrograma_ContadorPrograma_scck.rpt"
+@N: MF916 |Option synthesis_strategy=base is enabled. 
+@N: MF248 |Running in 64-bit mode.
+@N: MF666 |Clock conversion enabled. (Command "set_option -fix_gated_and_generated_clocks 1" in the project file.)
+
+Design Input Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 125MB peak: 129MB)
+
+
+Mapper Initialization Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 125MB peak: 129MB)
+
+
+Start loading timing files (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 138MB peak: 138MB)
+
+
+Finished loading timing files (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 138MB peak: 140MB)
+
+
+Starting clock optimization phase (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 170MB peak: 170MB)
+
+
+Finished clock optimization phase (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 170MB peak: 170MB)
+
+
+Starting clock optimization report phase (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 170MB peak: 170MB)
+
+
+Finished clock optimization report phase (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 170MB peak: 170MB)
+
+@N: FX1184 |Applying syn_allowed_resources blockrams=26 on top level netlist top 
+
+Finished netlist restructuring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 170MB peak: 170MB)
+
+
+
+Clock Summary
+******************
+
+          Start       Requested     Requested     Clock        Clock                   Clock
+Level     Clock       Frequency     Period        Type         Group                   Load 
+--------------------------------------------------------------------------------------------
+0 -       top|clk     100.0 MHz     10.000        inferred     Inferred_clkgroup_0     8    
+============================================================================================
+
+
+
+Clock Load Summary
+***********************
+
+            Clock     Source        Clock Pin            Non-clock Pin     Non-clock Pin         
+Clock       Load      Pin           Seq Example          Seq Example       Comb Example          
+-------------------------------------------------------------------------------------------------
+top|clk     8         clk(port)     cto1.DOUT[7:0].C     -                 cto1.un1_clk.I[0](inv)
+=================================================================================================
+
+@W: MT529 :"c:\users\andre\documents\university\noveno semestre\arquitectura de computadoras\procesador\contadorprogramareal\cp00.vhd":26:2:26:3|Found inferred clock top|clk which controls 8 sequential elements including cto1.DOUT[7:0]. This clock has no specified timing constraint which may prevent conversion of gated or generated clocks and may adversely impact design performance. 
+
+ICG Latch Removal Summary:
+Number of ICG latches removed: 0
+Number of ICG latches not removed:	0
+
+
+@S |Clock Optimization Summary
+
+
+
+#### START OF PREMAP CLOCK OPTIMIZATION REPORT #####[
+
+1 non-gated/non-generated clock tree(s) driving 8 clock pin(s) of sequential element(s)
+0 gated/generated clock tree(s) driving 0 clock pin(s) of sequential element(s)
+0 instances converted, 0 sequential instances remain driven by gated/generated clocks
+
+=========================== Non-Gated/Non-Generated Clocks ============================
+Clock Tree ID     Driving Element     Drive Element Type     Fanout     Sample Instance
+---------------------------------------------------------------------------------------
+@KP:ckid0_0       clk                 port                   8          cto1.DOUT[7:0] 
+=======================================================================================
+
+
+##### END OF CLOCK OPTIMIZATION REPORT ######
+
+@N: FX1143 |Skipping assigning INTERNAL_VREF to iobanks, because the table of mapping from pin to iobank is not initialized.
+Finished Pre Mapping Phase.
+
+Starting constraint checker (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:00s; Memory used current: 170MB peak: 170MB)
+
+
+Finished constraint checker preprocessing (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:00s; Memory used current: 170MB peak: 171MB)
+
+
+Finished constraint checker (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 171MB peak: 171MB)
+
+Pre-mapping successful!
+
+At Mapper Exit (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 87MB peak: 173MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Thu Jun 29 14:05:43 2023
+
+###########################################################]
+Map & Optimize Report
+
+# Thu Jun 29 14:05:43 2023
+
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-7A8SQ4U
+
+Implementation : ContadorPrograma
+Synopsys Lattice Technology Mapper, Version map202003lat, Build 172R, Built Nov  2 2020 09:31:45, @
+
+
+Mapper Startup Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 118MB peak: 118MB)
+
+@N: MF916 |Option synthesis_strategy=base is enabled. 
+@N: MF248 |Running in 64-bit mode.
+@N: MF666 |Clock conversion enabled. (Command "set_option -fix_gated_and_generated_clocks 1" in the project file.)
+
+Design Input Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 119MB peak: 129MB)
+
+
+Mapper Initialization Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 119MB peak: 129MB)
+
+
+Start loading timing files (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 134MB peak: 134MB)
+
+
+Finished loading timing files (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 135MB peak: 137MB)
+
+
+
+Starting Optimization and Mapping (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 167MB peak: 167MB)
+
+
+Available hyper_sources - for debug and ip models
+	None Found
+
+
+Finished RTL optimizations (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 171MB peak: 171MB)
+
+@N: MO231 :"c:\users\andre\documents\university\noveno semestre\arquitectura de computadoras\procesador\contadorprogramareal\cp00.vhd":26:2:26:3|Found counter in view:work.top(contadorprograma) instance cto1.DOUT[7:0] 
+
+Starting factoring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 171MB peak: 171MB)
+
+
+Finished factoring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 171MB peak: 172MB)
+
+
+Finished generic timing optimizations - Pass 1 (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 172MB peak: 172MB)
+
+
+Starting Early Timing Optimization (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 172MB peak: 172MB)
+
+
+Finished Early Timing Optimization (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 172MB peak: 172MB)
+
+
+Finished generic timing optimizations - Pass 2 (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 172MB peak: 172MB)
+
+
+Finished preparing to map (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 172MB peak: 172MB)
+
+
+Finished technology mapping (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 173MB peak: 173MB)
+
+Pass		 CPU time		Worst Slack		Luts / Registers
+------------------------------------------------------------
+   1		0h:00m:01s		     5.90ns		   2 /         8
+
+Finished technology timing optimizations and critical path resynthesis (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 173MB peak: 173MB)
+
+@N: FX164 |The option to pack registers in the IOB has not been specified. Please set syn_useioff attribute.  
+
+Finished restoring hierarchy (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 174MB peak: 174MB)
+
+
+Start Writing Netlists (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 139MB peak: 174MB)
+
+Writing Analyst data base C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\ContadorPrograma\synwork\ContadorPrograma_ContadorPrograma_m.srm
+
+Finished Writing Netlist Databases (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 174MB peak: 174MB)
+
+Writing EDIF Netlist and constraint files
+@N: FX1056 |Writing EDF file: C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\ContadorPrograma\ContadorPrograma_ContadorPrograma.edi
+@N: BW106 |Synplicity Constraint File capacitance units using default value of 1pF 
+
+Finished Writing EDIF Netlist and constraint files (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 180MB peak: 180MB)
+
+
+Start final timing analysis (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:02s; Memory used current: 179MB peak: 180MB)
+
+@W: MT420 |Found inferred clock top|clk with period 10.00ns. Please declare a user-defined clock on port clk.
+
+
+##### START OF TIMING REPORT #####[
+# Timing report written on Thu Jun 29 14:05:45 2023
+#
+
+
+Top view:               top
+Requested Frequency:    100.0 MHz
+Wire load mode:         top
+Paths requested:        5
+Constraint File(s):    
+@N: MT320 |This timing report is an estimate of place and route data. For final timing results, use the FPGA vendor place and route report.
+
+@N: MT322 |Clock constraints include only register-to-register paths associated with each individual clock.
+
+
+
+Performance Summary
+*******************
+
+
+Worst slack in design: 5.329
+
+                   Requested     Estimated     Requested     Estimated               Clock        Clock              
+Starting Clock     Frequency     Frequency     Period        Period        Slack     Type         Group              
+---------------------------------------------------------------------------------------------------------------------
+top|clk            100.0 MHz     214.1 MHz     10.000        4.671         5.329     inferred     Inferred_clkgroup_0
+=====================================================================================================================
+
+
+
+
+
+Clock Relationships
+*******************
+
+Clocks             |    rise  to  rise   |    fall  to  fall   |    rise  to  fall   |    fall  to  rise 
+---------------------------------------------------------------------------------------------------------
+Starting  Ending   |  constraint  slack  |  constraint  slack  |  constraint  slack  |  constraint  slack
+---------------------------------------------------------------------------------------------------------
+top|clk   top|clk  |  No paths    -      |  10.000      5.329  |  No paths    -      |  No paths    -    
+=========================================================================================================
+ Note: 'No paths' indicates there are no paths in the design for that pair of clock edges.
+       'Diff grp' indicates that paths exist but the starting clock and ending clock are in different clock groups.
+
+
+
+Interface Information 
+*********************
+
+No IO constraint found
+
+
+
+====================================
+Detailed Report for Clock: top|clk
+====================================
+
+
+
+Starting Points with Worst Slack
+********************************
+
+                 Starting                                             Arrival          
+Instance         Reference     Type        Pin     Net                Time        Slack
+                 Clock                                                                 
+---------------------------------------------------------------------------------------
+cto1.DOUT[0]     top|clk       FD1P3DX     Q       busSalida_c[0]     1.044       5.329
+cto1.DOUT[1]     top|clk       FD1P3DX     Q       busSalida_c[1]     1.044       5.471
+cto1.DOUT[2]     top|clk       FD1P3DX     Q       busSalida_c[2]     1.044       5.471
+cto1.DOUT[3]     top|clk       FD1P3DX     Q       busSalida_c[3]     1.044       5.614
+cto1.DOUT[4]     top|clk       FD1P3DX     Q       busSalida_c[4]     1.044       5.614
+cto1.DOUT[5]     top|clk       FD1P3DX     Q       busSalida_c[5]     1.044       5.757
+cto1.DOUT[6]     top|clk       FD1P3DX     Q       busSalida_c[6]     1.044       5.757
+cto1.DOUT[7]     top|clk       FD1P3DX     Q       busSalida_c[7]     1.044       7.641
+=======================================================================================
+
+
+Ending Points with Worst Slack
+******************************
+
+                 Starting                                        Required          
+Instance         Reference     Type        Pin     Net           Time         Slack
+                 Clock                                                             
+-----------------------------------------------------------------------------------
+cto1.DOUT[7]     top|clk       FD1P3DX     D       DOUT_s[7]     9.894        5.329
+cto1.DOUT[5]     top|clk       FD1P3DX     D       DOUT_s[5]     9.894        5.471
+cto1.DOUT[6]     top|clk       FD1P3DX     D       DOUT_s[6]     9.894        5.471
+cto1.DOUT[3]     top|clk       FD1P3DX     D       DOUT_s[3]     9.894        5.614
+cto1.DOUT[4]     top|clk       FD1P3DX     D       DOUT_s[4]     9.894        5.614
+cto1.DOUT[1]     top|clk       FD1P3DX     D       DOUT_s[1]     9.894        5.757
+cto1.DOUT[2]     top|clk       FD1P3DX     D       DOUT_s[2]     9.894        5.757
+cto1.DOUT[0]     top|clk       FD1P3DX     D       DOUT_s[0]     9.894        7.641
+===================================================================================
+
+
+
+Worst Path Information
+***********************
+
+
+Path information for path number 1: 
+      Requested Period:                      10.000
+    - Setup time:                            0.106
+    + Clock delay at ending point:           0.000 (ideal)
+    = Required time:                         9.894
+
+    - Propagation time:                      4.566
+    - Clock delay at starting point:         0.000 (ideal)
+    = Slack (critical) :                     5.329
+
+    Number of logic level(s):                5
+    Starting point:                          cto1.DOUT[0] / Q
+    Ending point:                            cto1.DOUT[7] / D
+    The start point is clocked by            top|clk [falling] (rise=0.000 fall=5.000 period=10.000) on pin CK
+    The end   point is clocked by            top|clk [falling] (rise=0.000 fall=5.000 period=10.000) on pin CK
+
+Instance / Net                     Pin      Pin               Arrival     No. of    
+Name                   Type        Name     Dir     Delay     Time        Fan Out(s)
+------------------------------------------------------------------------------------
+cto1.DOUT[0]           FD1P3DX     Q        Out     1.044     1.044 r     -         
+busSalida_c[0]         Net         -        -       -         -           2         
+cto1.DOUT_cry_0[0]     CCU2D       C1       In      0.000     1.044 r     -         
+cto1.DOUT_cry_0[0]     CCU2D       COUT     Out     1.544     2.588 r     -         
+DOUT_cry[0]            Net         -        -       -         -           1         
+cto1.DOUT_cry_0[1]     CCU2D       CIN      In      0.000     2.588 r     -         
+cto1.DOUT_cry_0[1]     CCU2D       COUT     Out     0.143     2.731 r     -         
+DOUT_cry[2]            Net         -        -       -         -           1         
+cto1.DOUT_cry_0[3]     CCU2D       CIN      In      0.000     2.731 r     -         
+cto1.DOUT_cry_0[3]     CCU2D       COUT     Out     0.143     2.874 r     -         
+DOUT_cry[4]            Net         -        -       -         -           1         
+cto1.DOUT_cry_0[5]     CCU2D       CIN      In      0.000     2.874 r     -         
+cto1.DOUT_cry_0[5]     CCU2D       COUT     Out     0.143     3.017 r     -         
+DOUT_cry[6]            Net         -        -       -         -           1         
+cto1.DOUT_s_0[7]       CCU2D       CIN      In      0.000     3.017 r     -         
+cto1.DOUT_s_0[7]       CCU2D       S0       Out     1.549     4.566 r     -         
+DOUT_s[7]              Net         -        -       -         -           1         
+cto1.DOUT[7]           FD1P3DX     D        In      0.000     4.566 r     -         
+====================================================================================
+
+
+
+##### END OF TIMING REPORT #####]
+
+Timing exceptions that could not be applied
+
+Finished final timing analysis (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 180MB peak: 180MB)
+
+
+Finished timing report (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 180MB peak: 180MB)
+
+---------------------------------------
+Resource Usage Report
+Part: lcmxo2_7000he-4
+
+Register bits: 8 of 6864 (0%)
+PIC Latch:       0
+I/O cells:       20
+
+
+Details:
+CCU2D:          5
+FD1P3DX:        8
+GSR:            1
+IB:             12
+INV:            2
+OB:             8
+PUR:            1
+VHI:            2
+VLO:            2
+Mapper successful!
+
+At Mapper Exit (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 64MB peak: 180MB)
+
+Process took 0h:00m:02s realtime, 0h:00m:02s cputime
+# Thu Jun 29 14:05:45 2023
+
+###########################################################]

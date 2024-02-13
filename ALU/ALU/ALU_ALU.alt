@@ -1,0 +1,42 @@
+NOTE Copyright (C), 1992-2010, Lattice Semiconductor Corporation *
+NOTE All Rights Reserved *
+NOTE DATE CREATED: Wed Apr 26 11:20:04 2023 *
+NOTE DESIGN NAME: ALU00 *
+NOTE DEVICE NAME: LCMXO2-7000HE-5TQFP144 *
+NOTE PIN ASSIGNMENTS *
+NOTE PINS S[0] : 38 : out *
+NOTE PINS A[0] : 14 : in *
+NOTE PINS LEDS : 56 : out *
+NOTE PINS LEDP : 57 : out *
+NOTE PINS LEDE2 : 55 : out *
+NOTE PINS LEDE1 : 54 : out *
+NOTE PINS LEDZ : 59 : out *
+NOTE PINS S[7] : 99 : out *
+NOTE PINS S[6] : 100 : out *
+NOTE PINS S[5] : 104 : out *
+NOTE PINS S[4] : 105 : out *
+NOTE PINS S[3] : 106 : out *
+NOTE PINS S[2] : 107 : out *
+NOTE PINS S[1] : 40 : out *
+NOTE PINS C2 : 26 : in *
+NOTE PINS C1[3] : 1 : in *
+NOTE PINS C1[2] : 2 : in *
+NOTE PINS C1[1] : 3 : in *
+NOTE PINS C1[0] : 4 : in *
+NOTE PINS B[7] : 19 : in *
+NOTE PINS B[6] : 20 : in *
+NOTE PINS B[5] : 21 : in *
+NOTE PINS B[4] : 22 : in *
+NOTE PINS B[3] : 132 : in *
+NOTE PINS B[2] : 133 : in *
+NOTE PINS B[1] : 24 : in *
+NOTE PINS B[0] : 23 : in *
+NOTE PINS A[7] : 5 : in *
+NOTE PINS A[6] : 6 : in *
+NOTE PINS A[5] : 9 : in *
+NOTE PINS A[4] : 10 : in *
+NOTE PINS A[3] : 11 : in *
+NOTE PINS A[2] : 12 : in *
+NOTE PINS A[1] : 13 : in *
+NOTE CONFIGURATION MODE: NONE *
+NOTE COMPRESSION: on *

@@ -1,0 +1,1 @@
+@W: MT529 :"c:\users\andre\documents\university\noveno semestre\arquitectura de computadoras\procesador\unidaddecontrol\cu.vhd":27:4:27:5|Found inferred clock unidadControl|clk which controls 5 sequential elements including alu[4]. This clock has no specified timing constraint which may prevent conversion of gated or generated clocks and may adversely impact design performance. 

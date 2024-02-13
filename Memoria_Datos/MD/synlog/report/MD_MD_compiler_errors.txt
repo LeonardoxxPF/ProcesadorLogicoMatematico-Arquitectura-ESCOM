@@ -1,0 +1,2 @@
+@E: CD379 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\Memoria_Datos\MemoriaDatos.vhd":44:2:44:2|Specified wrong number of values in aggregate, expected 128
+

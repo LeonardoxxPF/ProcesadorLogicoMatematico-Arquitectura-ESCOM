@@ -1,0 +1,108 @@
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-7A8SQ4U
+
+Implementation : ContadorPrograma
+Synopsys HDL Compiler, Version comp202003synp2, Build 182R, Built Oct 29 2020 10:49:53, @
+
+@N|Running in 64-bit mode
+###########################################################[
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-7A8SQ4U
+
+Implementation : ContadorPrograma
+Synopsys VHDL Compiler, Version comp202003synp2, Build 182R, Built Oct 29 2020 10:49:53, @
+
+@N|Running in 64-bit mode
+@N:"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\top.vhd":8:7:8:9|Top entity is set to top.
+File C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\CP00.vhd changed - recompiling
+VHDL syntax check successful!
+File C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\CP00.vhd changed - recompiling
+@N: CD630 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\top.vhd":8:7:8:9|Synthesizing work.top.contadorprograma.
+@N: CD630 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\CP00.vhd":8:7:8:25|Synthesizing work.contador_programa00.contador_programa0.
+Post processing for work.contador_programa00.contador_programa0
+Running optimization stage 1 on CONTADOR_PROGRAMA00 .......
+@N: CD630 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\mux.vhd":6:7:6:12|Synthesizing work.mux2_1.mux00.
+Post processing for work.mux2_1.mux00
+Running optimization stage 1 on mux2_1 .......
+Post processing for work.top.contadorprograma
+Running optimization stage 1 on top .......
+Running optimization stage 2 on mux2_1 .......
+Running optimization stage 2 on CONTADOR_PROGRAMA00 .......
+Running optimization stage 2 on top .......
+
+For a summary of runtime and memory usage per design unit, please see file:
+==========================================================
+@L: C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\ContadorPrograma\synwork\layer0.rt.csv
+
+
+At c_vhdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 90MB peak: 91MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Thu Jun 29 14:05:39 2023
+
+###########################################################]
+###########################################################[
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-7A8SQ4U
+
+Implementation : ContadorPrograma
+Synopsys Synopsys Netlist Linker, Version comp202003synp2, Build 182R, Built Oct 29 2020 10:49:53, @
+
+@N|Running in 64-bit mode
+File C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\ContadorPrograma\synwork\layer0.srs changed - recompiling
+
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 90MB peak: 90MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Thu Jun 29 14:05:40 2023
+
+###########################################################]
+
+For a summary of runtime and memory usage for all design units, please see file:
+==========================================================
+@L: C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\ContadorPrograma\synwork\ContadorPrograma_ContadorPrograma_comp.rt.csv
+
+@END
+
+At c_hdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 23MB peak: 23MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Thu Jun 29 14:05:40 2023
+
+###########################################################]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliProject version="3.2" title="AnalisisBanderas" device="LCMXO2-7000HE-4TG144C" default_implementation="AnalisisBanderas">
+    <Options/>
+    <Implementation title="AnalisisBanderas" dir="AnalisisBanderas" description="AnalisisBanderas" synthesis="synplify" default_strategy="Strategy1">
+        <Options/>
+        <Source name="AnalisisBanderas.lpf" type="Logic Preference" type_short="LPF">
+            <Options/>
+        </Source>
+    </Implementation>
+    <Strategy name="Strategy1" file="AnalisisBanderas1.sty"/>
+</BaliProject>

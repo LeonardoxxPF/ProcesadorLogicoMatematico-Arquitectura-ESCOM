@@ -1,0 +1,1 @@
+run_tcl -fg ContadorPrograma_ContadorPrograma_synplify.tcl

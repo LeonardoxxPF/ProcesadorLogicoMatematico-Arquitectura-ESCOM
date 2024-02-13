@@ -1,0 +1,101 @@
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-7A8SQ4U
+
+Implementation : BR
+Synopsys HDL Compiler, Version comp202003synp2, Build 182R, Built Oct 29 2020 10:49:53, @
+
+@N|Running in 64-bit mode
+###########################################################[
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-7A8SQ4U
+
+Implementation : BR
+Synopsys VHDL Compiler, Version comp202003synp2, Build 182R, Built Oct 29 2020 10:49:53, @
+
+@N|Running in 64-bit mode
+@N:"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\Banco_Registro\Banco_Registros.vhd":6:7:6:19|Top entity is set to BancoRegistro.
+Options changed - recompiling
+VHDL syntax check successful!
+@N: CD630 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\Banco_Registro\Banco_Registros.vhd":6:7:6:19|Synthesizing work.bancoregistro.bancoregistro0.
+Post processing for work.bancoregistro.bancoregistro0
+Running optimization stage 1 on BancoRegistro .......
+@N: CL134 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\Banco_Registro\Banco_Registros.vhd":19:8:19:10|Found RAM mem, depth=256, width=8
+@N: CL134 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\Banco_Registro\Banco_Registros.vhd":19:8:19:10|Found RAM mem, depth=256, width=8
+Running optimization stage 2 on BancoRegistro .......
+
+For a summary of runtime and memory usage per design unit, please see file:
+==========================================================
+@L: C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\Banco_Registro\BR\synwork\layer0.rt.csv
+
+
+At c_vhdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 90MB peak: 91MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Thu Jun 29 20:01:14 2023
+
+###########################################################]
+###########################################################[
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-7A8SQ4U
+
+Implementation : BR
+Synopsys Synopsys Netlist Linker, Version comp202003synp2, Build 182R, Built Oct 29 2020 10:49:53, @
+
+@N|Running in 64-bit mode
+File C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\Banco_Registro\BR\synwork\layer0.srs changed - recompiling
+
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 90MB peak: 90MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Thu Jun 29 20:01:15 2023
+
+###########################################################]
+
+For a summary of runtime and memory usage for all design units, please see file:
+==========================================================
+@L: C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\Banco_Registro\BR\synwork\BR_BR_comp.rt.csv
+
+@END
+
+At c_hdl Exit (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:00s; Memory used current: 23MB peak: 23MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Thu Jun 29 20:01:15 2023
+
+###########################################################]

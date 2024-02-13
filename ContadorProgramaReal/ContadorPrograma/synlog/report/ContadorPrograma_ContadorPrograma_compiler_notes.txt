@@ -1,0 +1,8 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N:"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\top.vhd":8:7:8:9|Top entity is set to top.
+@N: CD630 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\top.vhd":8:7:8:9|Synthesizing work.top.contadorprograma.
+@N: CD630 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\CP00.vhd":8:7:8:25|Synthesizing work.contador_programa00.contador_programa0.
+@N: CD630 :"C:\Users\andre\Documents\University\Noveno Semestre\Arquitectura de computadoras\Procesador\ContadorProgramaReal\mux.vhd":6:7:6:12|Synthesizing work.mux2_1.mux00.
+@N|Running in 64-bit mode
+
